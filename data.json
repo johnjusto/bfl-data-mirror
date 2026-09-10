@@ -1,0 +1,1129 @@
+{
+  "updatedAt": "2026-09-10T14:00:37.102Z",
+  "teams": {
+    "1": {
+      "abbrev": "DC",
+      "calendarName": "DO",
+      "espnId": 1,
+      "espnName": "Dallas Cowboys",
+      "owner": "Daniel Di Giovanni",
+      "seed": 7
+    },
+    "2": {
+      "abbrev": "TN",
+      "calendarName": "Lucas",
+      "espnId": 2,
+      "espnName": "TENNESSEE",
+      "owner": "Lucas Coelho",
+      "seed": 2
+    },
+    "3": {
+      "abbrev": "JAG2",
+      "calendarName": "Fabinho",
+      "espnId": 3,
+      "espnName": "Jaguars Champions",
+      "owner": "Fabio De Osti",
+      "seed": 1
+    },
+    "4": {
+      "abbrev": "TM4",
+      "calendarName": "Marcos",
+      "espnId": 4,
+      "espnName": "Tampa Bay Badidas",
+      "owner": "Marcos Szrajer",
+      "seed": 6
+    },
+    "5": {
+      "abbrev": "DBl",
+      "calendarName": "Henrique",
+      "espnId": 5,
+      "espnName": "Davai blyat",
+      "owner": "Henrique Bovolenta",
+      "seed": 10
+    },
+    "6": {
+      "abbrev": "KNO3",
+      "calendarName": "Coto",
+      "espnId": 6,
+      "espnName": "Skynet - Genesis",
+      "owner": "Rafael Nespeche",
+      "seed": 5
+    },
+    "7": {
+      "abbrev": "TB",
+      "calendarName": "Leandro",
+      "espnId": 7,
+      "espnName": "BUCCS",
+      "owner": "Leandro Telles",
+      "seed": 8
+    },
+    "8": {
+      "abbrev": "TM8",
+      "calendarName": "Thiago",
+      "espnId": 8,
+      "espnName": "Djow's Team",
+      "owner": "Thiago Ruiz",
+      "seed": 4
+    },
+    "9": {
+      "abbrev": "JJ",
+      "calendarName": "Joao Justo",
+      "espnId": 9,
+      "espnName": "LaPorta dos Desesperados",
+      "owner": "joao justo",
+      "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
+    }
+  },
+  "weeks": [],
+  "history": [
+    {
+      "champion": "TENNESSEE",
+      "second": "Dallas Cowboys",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "11-3-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 2,
+          "record": "7-7-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 3,
+          "record": "7-7-0",
+          "team": "Jaguars Fodex"
+        },
+        {
+          "rank": 4,
+          "record": "7-7-0",
+          "team": "Madai Cotonera"
+        },
+        {
+          "rank": 5,
+          "record": "6-8-0",
+          "team": "PLUM"
+        },
+        {
+          "rank": 6,
+          "record": "6-8-0",
+          "team": "Packers"
+        },
+        {
+          "rank": 7,
+          "record": "6-8-0",
+          "team": "DoniAndaime"
+        },
+        {
+          "rank": 8,
+          "record": "6-8-0",
+          "team": "Buccs"
+        }
+      ],
+      "third": "Jaguars Fodex",
+      "year": 2012
+    },
+    {
+      "champion": "Dallas Cowboys",
+      "second": "Djow's Team",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "8-6-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 2,
+          "record": "10-4-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 3,
+          "record": "9-5-0",
+          "team": "Jaguars Fodex"
+        },
+        {
+          "rank": 4,
+          "record": "12-2-0",
+          "team": "Packers"
+        },
+        {
+          "rank": 5,
+          "record": "7-7-0",
+          "team": "Madai Cotonera"
+        },
+        {
+          "rank": 6,
+          "record": "7-7-0",
+          "team": "Buccs"
+        },
+        {
+          "rank": 7,
+          "record": "6-8-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 8,
+          "record": "4-10-0",
+          "team": "PLUM"
+        },
+        {
+          "rank": 9,
+          "record": "4-10-0",
+          "team": "DoniAndaime"
+        },
+        {
+          "rank": 10,
+          "record": "3-11-0",
+          "team": "Evil Empire"
+        }
+      ],
+      "third": "Jaguars Fodex",
+      "year": 2013
+    },
+    {
+      "champion": "Jacksonville Jaguars",
+      "second": "Djow's Team",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "9-5-0",
+          "team": "Jacksonville Jaguars"
+        },
+        {
+          "rank": 2,
+          "record": "9-5-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 3,
+          "record": "8-6-0",
+          "team": "PACKERS"
+        },
+        {
+          "rank": 4,
+          "record": "9-5-0",
+          "team": "Buccs"
+        },
+        {
+          "rank": 5,
+          "record": "6-8-0",
+          "team": "Madai Cotonera"
+        },
+        {
+          "rank": 6,
+          "record": "7-7-0",
+          "team": "Rhinos"
+        },
+        {
+          "rank": 7,
+          "record": "6-8-0",
+          "team": "Gooooo Pats"
+        },
+        {
+          "rank": 8,
+          "record": "6-8-0",
+          "team": "TENNESSEE Jaguars"
+        },
+        {
+          "rank": 9,
+          "record": "5-9-0",
+          "team": "Dallas Buccaneers"
+        },
+        {
+          "rank": 10,
+          "record": "5-9-0",
+          "team": "NY Giants"
+        }
+      ],
+      "third": "PACKERS",
+      "year": 2014
+    },
+    {
+      "champion": "Dallas Cowboys",
+      "second": "Rhinos",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "8-6-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 2,
+          "record": "9-5-0",
+          "team": "Rhinos"
+        },
+        {
+          "rank": 3,
+          "record": "9-5-0",
+          "team": "NY DOLAR"
+        },
+        {
+          "rank": 4,
+          "record": "8-6-0",
+          "team": "Madai Cotonera"
+        },
+        {
+          "rank": 5,
+          "record": "5-9-0",
+          "team": "Jacksonville Jaguars"
+        },
+        {
+          "rank": 6,
+          "record": "7-7-0",
+          "team": "Gooooo Pats"
+        },
+        {
+          "rank": 7,
+          "record": "8-6-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 8,
+          "record": "8-6-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 9,
+          "record": "4-10-0",
+          "team": "PACKERS"
+        },
+        {
+          "rank": 10,
+          "record": "4-10-0",
+          "team": "Buccs"
+        }
+      ],
+      "third": "NY DOLAR",
+      "year": 2015
+    },
+    {
+      "champion": "Dallas Cowboys",
+      "second": "Madai Cotonera",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "10-4-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 2,
+          "record": "11-3-0",
+          "team": "Madai Cotonera"
+        },
+        {
+          "rank": 3,
+          "record": "9-5-0",
+          "team": "PACKERS"
+        },
+        {
+          "rank": 4,
+          "record": "7-7-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 5,
+          "record": "6-8-0",
+          "team": "Go Pats e fumo cachorrao"
+        },
+        {
+          "rank": 6,
+          "record": "7-7-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 7,
+          "record": "6-8-0",
+          "team": "NY GIANT VOLTOU A DORMIR"
+        },
+        {
+          "rank": 8,
+          "record": "5-9-0",
+          "team": "Jacksonville Jaguars"
+        },
+        {
+          "rank": 9,
+          "record": "5-9-0",
+          "team": "Rhinos"
+        },
+        {
+          "rank": 10,
+          "record": "4-10-0",
+          "team": "Buccs"
+        }
+      ],
+      "third": "PACKERS",
+      "year": 2016
+    },
+    {
+      "champion": "Go Pats e fumo cachorrao",
+      "second": "Djow's Team",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "8-6-0",
+          "team": "Go Pats e fumo cachorrao"
+        },
+        {
+          "rank": 2,
+          "record": "10-4-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 3,
+          "record": "10-4-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 4,
+          "record": "9-5-0",
+          "team": "Buccs"
+        },
+        {
+          "rank": 5,
+          "record": "7-7-0",
+          "team": "Rhinos"
+        },
+        {
+          "rank": 6,
+          "record": "7-7-0",
+          "team": "Madai Cotonera"
+        },
+        {
+          "rank": 7,
+          "record": "6-8-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 8,
+          "record": "6-8-0",
+          "team": "Renegados Team Jags"
+        },
+        {
+          "rank": 9,
+          "record": "5-9-0",
+          "team": "PACKERS"
+        },
+        {
+          "rank": 10,
+          "record": "2-12-0",
+          "team": "Giantao Campiao"
+        }
+      ],
+      "third": "Dallas Cowboys",
+      "year": 2017
+    },
+    {
+      "champion": "Djow's Team",
+      "second": "Dallas Cowboys",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "9-5-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 2,
+          "record": "10-4-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 3,
+          "record": "9-5-0",
+          "team": "PACKERS"
+        },
+        {
+          "rank": 4,
+          "record": "8-6-0",
+          "team": "Madai Cotonera"
+        },
+        {
+          "rank": 5,
+          "record": "7-7-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 6,
+          "record": "7-7-0",
+          "team": "Rhinos"
+        },
+        {
+          "rank": 7,
+          "record": "5-9-0",
+          "team": "Renegados Team Jags"
+        },
+        {
+          "rank": 8,
+          "record": "7-7-0",
+          "team": "Pimpaco"
+        },
+        {
+          "rank": 9,
+          "record": "5-9-0",
+          "team": "Go Pats e fumo cachorrao"
+        },
+        {
+          "rank": 10,
+          "record": "3-11-0",
+          "team": "Buccs"
+        }
+      ],
+      "third": "PACKERS",
+      "year": 2018
+    },
+    {
+      "champion": "Djow's Team",
+      "second": "PACKERS",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "9-5-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 2,
+          "record": "9-5-0",
+          "team": "PACKERS"
+        },
+        {
+          "rank": 3,
+          "record": "10-4-0",
+          "team": "Go Patssss"
+        },
+        {
+          "rank": 4,
+          "record": "10-4-0",
+          "team": "Buccs"
+        },
+        {
+          "rank": 5,
+          "record": "8-6-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 6,
+          "record": "8-6-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 7,
+          "record": "6-8-0",
+          "team": "Rhinos"
+        },
+        {
+          "rank": 8,
+          "record": "5-9-0",
+          "team": "Bigodito Team"
+        },
+        {
+          "rank": 9,
+          "record": "4-10-0",
+          "team": "Pimpaco"
+        },
+        {
+          "rank": 10,
+          "record": "1-13-0",
+          "team": "Madai Cotonera"
+        }
+      ],
+      "third": "Go Patssss",
+      "year": 2019
+    },
+    {
+      "champion": "Djow's Team",
+      "second": "Dallas Cowboys",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "12-2-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 2,
+          "record": "9-5-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 3,
+          "record": "8-6-0",
+          "team": "Pimpaco"
+        },
+        {
+          "rank": 4,
+          "record": "9-5-0",
+          "team": "Rhinos"
+        },
+        {
+          "rank": 5,
+          "record": "5-9-0",
+          "team": "PACKERS"
+        },
+        {
+          "rank": 6,
+          "record": "6-8-0",
+          "team": "Mundo Bita Football Team"
+        },
+        {
+          "rank": 7,
+          "record": "8-6-0",
+          "team": "Chegado's Team"
+        },
+        {
+          "rank": 8,
+          "record": "7-7-0",
+          "team": "Go Patssss"
+        },
+        {
+          "rank": 9,
+          "record": "5-9-0",
+          "team": "Buccs"
+        },
+        {
+          "rank": 10,
+          "record": "1-13-0",
+          "team": "TENNESSEE"
+        }
+      ],
+      "third": "Pimpaco",
+      "year": 2020
+    },
+    {
+      "champion": "Dallas Cowboys",
+      "second": "Mintor2022",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "9-6-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 2,
+          "record": "10-5-0",
+          "team": "Mintor2022"
+        },
+        {
+          "rank": 3,
+          "record": "9-6-0",
+          "team": "Go Patssss"
+        },
+        {
+          "rank": 4,
+          "record": "9-6-0",
+          "team": "Chegado's Team"
+        },
+        {
+          "rank": 5,
+          "record": "8-7-0",
+          "team": "BUCCS"
+        },
+        {
+          "rank": 6,
+          "record": "8-7-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 7,
+          "record": "6-9-0",
+          "team": "PACKERS"
+        },
+        {
+          "rank": 8,
+          "record": "7-8-0",
+          "team": "Pimpaco"
+        },
+        {
+          "rank": 9,
+          "record": "5-10-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 10,
+          "record": "4-11-0",
+          "team": "Rhinos"
+        }
+      ],
+      "third": "Go Patssss",
+      "year": 2021
+    },
+    {
+      "champion": "Rhinos",
+      "second": "PACKERS",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "10-5-0",
+          "team": "Rhinos"
+        },
+        {
+          "rank": 2,
+          "record": "8-7-0",
+          "team": "PACKERS"
+        },
+        {
+          "rank": 3,
+          "record": "11-4-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 4,
+          "record": "10-5-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 5,
+          "record": "7-8-0",
+          "team": "Duvvvvaaaalllll"
+        },
+        {
+          "rank": 6,
+          "record": "8-7-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 7,
+          "record": "7-8-0",
+          "team": "CUMPADRE"
+        },
+        {
+          "rank": 8,
+          "record": "6-9-0",
+          "team": "Go Patssss"
+        },
+        {
+          "rank": 9,
+          "record": "5-10-0",
+          "team": "Pimpaco"
+        },
+        {
+          "rank": 10,
+          "record": "3-12-0",
+          "team": "BUCCS"
+        }
+      ],
+      "third": "TENNESSEE",
+      "year": 2022
+    },
+    {
+      "champion": "Rhinos",
+      "second": "Go Patssss",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "11-4-0",
+          "team": "Rhinos"
+        },
+        {
+          "rank": 2,
+          "record": "9-6-0",
+          "team": "Go Patssss"
+        },
+        {
+          "rank": 3,
+          "record": "7-8-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 4,
+          "record": "9-6-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 5,
+          "record": "7-8-0",
+          "team": "Jaguars"
+        },
+        {
+          "rank": 6,
+          "record": "7-8-0",
+          "team": "PACKERS BFL CHAMPIONS 2022"
+        },
+        {
+          "rank": 7,
+          "record": "7-8-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 8,
+          "record": "7-8-0",
+          "team": "BUCCS"
+        },
+        {
+          "rank": 9,
+          "record": "6-9-0",
+          "team": "Pimpaco"
+        },
+        {
+          "rank": 10,
+          "record": "5-10-0",
+          "team": "PEUGEOT 207"
+        }
+      ],
+      "third": "TENNESSEE",
+      "year": 2023
+    },
+    {
+      "champion": "Dallas Cowboys",
+      "second": "Jaguars",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "10-5-0",
+          "team": "Dallas Cowboys"
+        },
+        {
+          "rank": 2,
+          "record": "10-5-0",
+          "team": "Jaguars"
+        },
+        {
+          "rank": 3,
+          "record": "12-3-0",
+          "team": "Go Patssss"
+        },
+        {
+          "rank": 4,
+          "record": "10-5-0",
+          "team": "PACKERS BFL CHAMPIONS 2022"
+        },
+        {
+          "rank": 5,
+          "record": "6-9-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 6,
+          "record": "6-9-0",
+          "team": "X"
+        },
+        {
+          "rank": 7,
+          "record": "9-6-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 8,
+          "record": "8-7-0",
+          "team": "Pimpaco"
+        },
+        {
+          "rank": 9,
+          "record": "3-12-0",
+          "team": "BUCCS"
+        },
+        {
+          "rank": 10,
+          "record": "1-14-0",
+          "team": "Rhinos"
+        }
+      ],
+      "third": "Go Patssss",
+      "year": 2024
+    },
+    {
+      "champion": "Jaguars",
+      "second": "TENNESSEE",
+      "standings": [
+        {
+          "rank": 1,
+          "record": "9-6-0",
+          "team": "Jaguars"
+        },
+        {
+          "rank": 2,
+          "record": "9-6-0",
+          "team": "TENNESSEE"
+        },
+        {
+          "rank": 3,
+          "record": "9-6-0",
+          "team": "Go Patssss"
+        },
+        {
+          "rank": 4,
+          "record": "12-3-0",
+          "team": "Djow's Team"
+        },
+        {
+          "rank": 5,
+          "record": "7-8-0",
+          "team": "CHAMPIONS DOGS"
+        },
+        {
+          "rank": 6,
+          "record": "7-8-0",
+          "team": "Tampa Bay Badidas"
+        },
+        {
+          "rank": 7,
+          "record": "8-7-0",
+          "team": "Sai Zica"
+        },
+        {
+          "rank": 8,
+          "record": "8-7-0",
+          "team": "Pimpaco"
+        },
+        {
+          "rank": 9,
+          "record": "3-12-0",
+          "team": "BUCCS"
+        },
+        {
+          "rank": 10,
+          "record": "3-12-0",
+          "team": "Rhinos"
+        }
+      ],
+      "third": "Go Patssss",
+      "year": 2025
+    }
+  ],
+  "managers": {
+    "amintore": {
+      "displayName": "Amintore",
+      "notes": "Jogou 2012-2017, saiu da liga em 2017",
+      "status": "departed",
+      "teamNames": [
+        "DoniAndaime",
+        "NY Giants",
+        "NY DOLAR",
+        "NY GIANT VOLTOU A DORMIR",
+        "Giantao Campiao"
+      ]
+    },
+    "anselmo": {
+      "displayName": "Anselmo",
+      "notes": "Entrou em 2014 no lugar do Plum, jogou até 2025, saiu em 2026",
+      "status": "departed",
+      "teamNames": [
+        "Rhinos"
+      ]
+    },
+    "breno": {
+      "currentTeam": "Tinoco FC",
+      "displayName": "Breno",
+      "notes": "Entrou na liga em 2026",
+      "realName": "Breno Tinoco",
+      "status": "current",
+      "teamNames": [
+        "Tinoco FC"
+      ]
+    },
+    "cachorrao": {
+      "displayName": "Cachorrão",
+      "notes": "Membro tradicional da liga (2012-2024), saiu antes da temporada 2025",
+      "status": "departed",
+      "teamNames": [
+        "Packers",
+        "PACKERS",
+        "PACKERS BFL CHAMPIONS 2022"
+      ]
+    },
+    "coto": {
+      "currentTeam": "Skynet - Genesis",
+      "displayName": "Coto",
+      "realName": "Rafael Nespeche",
+      "status": "current",
+      "teamNames": [
+        "Madai Cotonera",
+        "Mundo Bita Football Team",
+        "Mintor2022",
+        "CUMPADRE",
+        "PEUGEOT 207",
+        "X",
+        "CHAMPIONS DOGS"
+      ]
+    },
+    "do": {
+      "currentTeam": "Dallas Cowboys",
+      "displayName": "DO",
+      "realName": "Daniel Di Giovanni",
+      "status": "current",
+      "teamNames": [
+        "Dallas Cowboys",
+        "Dallas Buccaneers",
+        "Sai Zica"
+      ]
+    },
+    "fabinho": {
+      "currentTeam": "Jaguars Champions",
+      "displayName": "Fabinho",
+      "realName": "Fabio De Osti",
+      "status": "current",
+      "teamNames": [
+        "Jaguars Fodex",
+        "Jacksonville Jaguars",
+        "Renegados Team Jags",
+        "Bigodito Team",
+        "Chegado's Team",
+        "Duvvvvaaaalllll",
+        "Jaguars"
+      ]
+    },
+    "henrique": {
+      "currentTeam": "Davai blyat",
+      "displayName": "Henrique",
+      "notes": "Entrou na liga em 2026",
+      "realName": "Henrique Bovolenta",
+      "status": "current",
+      "teamNames": [
+        "Davai blyat"
+      ]
+    },
+    "joao-justo": {
+      "currentTeam": "LaPorta dos Desesperados",
+      "displayName": "Joao Justo",
+      "realName": "joao justo",
+      "status": "current",
+      "teamNames": [
+        "Evil Empire",
+        "Gooooo Pats",
+        "Go Pats e fumo cachorrao",
+        "Go Patssss"
+      ]
+    },
+    "joao-novo": {
+      "currentTeam": "Saints",
+      "displayName": "João novo",
+      "notes": "Entrou na liga em 2026",
+      "realName": "Joao Mesquita",
+      "status": "current",
+      "teamNames": [
+        "Saints"
+      ]
+    },
+    "leandro": {
+      "currentTeam": "BUCCS",
+      "displayName": "Leandro",
+      "realName": "Leandro Telles",
+      "status": "current",
+      "teamNames": [
+        "BUCCS",
+        "Buccs"
+      ]
+    },
+    "lucas": {
+      "currentTeam": "TENNESSEE",
+      "displayName": "Lucas",
+      "realName": "Lucas Coelho",
+      "status": "current",
+      "teamNames": [
+        "TENNESSEE",
+        "TENNESSEE Jaguars"
+      ]
+    },
+    "manoel": {
+      "displayName": "Manoel",
+      "notes": "Jogou 2018-2025, saiu em 2026",
+      "status": "departed",
+      "teamNames": [
+        "Pimpaco"
+      ]
+    },
+    "marcos": {
+      "currentTeam": "Tampa Bay Badidas",
+      "displayName": "Marcos",
+      "notes": "Entrou na liga em 2025",
+      "realName": "Marcos Szrajer",
+      "status": "current",
+      "teamNames": [
+        "Tampa Bay Badidas"
+      ]
+    },
+    "nayla": {
+      "currentTeam": "NaylaTM",
+      "displayName": "Nayla",
+      "notes": "Entrou na liga em 2026",
+      "realName": "Nayla Tavares",
+      "status": "current",
+      "teamNames": [
+        "NaylaTM"
+      ]
+    },
+    "plum": {
+      "displayName": "Plum",
+      "notes": "Jogou 2012-2013, identidade não lembrada pelo grupo",
+      "status": "departed",
+      "teamNames": [
+        "PLUM"
+      ]
+    },
+    "thiago": {
+      "currentTeam": "Djow's Team",
+      "displayName": "Thiago",
+      "realName": "Thiago Ruiz",
+      "status": "current",
+      "teamNames": [
+        "Djow's Team"
+      ]
+    }
+  },
+  "live": {
+    "games": [
+      {
+        "away": 8,
+        "awayScore": 0,
+        "home": 11,
+        "homeScore": 0
+      },
+      {
+        "away": 3,
+        "awayScore": 6.8,
+        "home": 2,
+        "homeScore": 0
+      },
+      {
+        "away": 10,
+        "awayScore": 0,
+        "home": 4,
+        "homeScore": 9.82
+      },
+      {
+        "away": 9,
+        "awayScore": 0,
+        "home": 12,
+        "homeScore": 4.1
+      },
+      {
+        "away": 6,
+        "awayScore": 0,
+        "home": 5,
+        "homeScore": 34.2
+      },
+      {
+        "away": 1,
+        "awayScore": 0,
+        "home": 7,
+        "homeScore": 15.96
+      }
+    ],
+    "note": "Patriots @ Seahawks de quarta já rolou e alimentou esses pontos parciais; os demais confrontos da NFL ainda não começaram.",
+    "updatedAt": "2026-09-10T12:16:19.841Z",
+    "week": 1
+  }
+}
