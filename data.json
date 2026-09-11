@@ -2197,5 +2197,39 @@
       "detailKnown": true
     }
   ],
-  "tradeBlock": {}
+  "tradeBlock": {
+    "9": {
+      "espnId": 9,
+      "teamName": "LaPorta dos Desesperados",
+      "managerName": "Joao Justo",
+      "interesse": [
+        "WR"
+      ],
+      "negociaveis": [
+        {
+          "name": "Rome Odunze",
+          "pos": "WR",
+          "proTeam": "CHI"
+        },
+        {
+          "name": "J.K. Dobbins",
+          "pos": "RB",
+          "proTeam": "DEN"
+        },
+        {
+          "name": "Xavier Worthy",
+          "pos": "WR",
+          "proTeam": "KC"
+        },
+        {
+          "name": "Kayshon Boutte",
+          "pos": "WR",
+          "proTeam": "HOU"
+        }
+      ],
+      "nota": "",
+      "outros": "",
+      "updatedAt": "2026-09-11T12:37:17.194Z"
+    }
+  }
 }
