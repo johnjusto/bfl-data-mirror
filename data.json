@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T12:02:04.328Z",
+  "updatedAt": "2026-09-11T12:33:44.409Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -1123,7 +1123,7 @@
       }
     ],
     "note": "Todos os confrontos dessa semana já têm pontuação parcial.",
-    "updatedAt": "2026-09-11T12:02:04.140Z"
+    "updatedAt": "2026-09-11T12:33:44.197Z"
   },
   "weeks": [],
   "rosters": {
@@ -2172,18 +2172,24 @@
         {
           "playerId": 4432620,
           "playerName": "Parker Washington",
+          "pos": "WR",
+          "proTeam": "JAX",
           "fromEspnId": 12,
           "toEspnId": 1
         },
         {
           "playerId": 4362619,
           "playerName": "Chris Rodriguez Jr.",
+          "pos": "RB",
+          "proTeam": "JAX",
           "fromEspnId": 1,
           "toEspnId": 12
         },
         {
           "playerId": 4362249,
           "playerName": "Jayden Reed",
+          "pos": "WR",
+          "proTeam": "GB",
           "fromEspnId": 1,
           "toEspnId": 12
         }
