@@ -2282,11 +2282,31 @@
           "name": "Michael Pittman Jr.",
           "pos": "WR",
           "proTeam": "PIT"
+        },
+        {
+          "name": "RJ Harvey",
+          "pos": "RB",
+          "proTeam": "DEN"
+        },
+        {
+          "name": "Kyle Monangai",
+          "pos": "RB",
+          "proTeam": "CHI"
+        },
+        {
+          "name": "Tyler Allgeier",
+          "pos": "RB",
+          "proTeam": "ARI"
+        },
+        {
+          "name": "Dontayvion Wicks",
+          "pos": "WR",
+          "proTeam": "PHI"
         }
       ],
       "nota": "Rb2",
       "outros": "",
-      "updatedAt": "2026-09-11T13:14:52.050Z"
+      "updatedAt": "2026-09-11T13:52:14.926Z"
     },
     "9": {
       "espnId": 9,
