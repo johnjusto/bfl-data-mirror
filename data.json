@@ -2232,14 +2232,10 @@
       "teamName": "Tampa Bay Badidas",
       "managerName": "Marcos",
       "interesse": [
-        "RB"
+        "RB",
+        "WR"
       ],
       "negociaveis": [
-        {
-          "name": "Woody Marks",
-          "pos": "RB",
-          "proTeam": "HOU"
-        },
         {
           "name": "Makai Lemon",
           "pos": "WR",
@@ -2261,9 +2257,9 @@
           "proTeam": "BAL"
         }
       ],
-      "nota": "RB3",
+      "nota": "RB1 ou RB2;  WR2 ou WR3",
       "outros": "",
-      "updatedAt": "2026-09-11T22:24:42.711Z"
+      "updatedAt": "2026-09-11T22:27:51.072Z"
     },
     "8": {
       "espnId": 8,
