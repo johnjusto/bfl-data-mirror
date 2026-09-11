@@ -1126,5 +1126,19 @@
     "updatedAt": "2026-09-10T12:16:19.841Z",
     "week": 1
   },
-  "tradeBlock": {}
+  "tradeBlock": {
+    "8": {
+      "espnId": 8,
+      "teamName": "Djow's Team",
+      "managerName": "Thiago",
+      "interesse": [
+        "RB",
+        "WR"
+      ],
+      "negociaveis": [],
+      "nota": "RB1 ou RB2 (teste UI)",
+      "outros": "J.Jeudy (WR-CLE), pick de 2027 (teste UI)",
+      "updatedAt": "2026-09-11T11:37:45.203Z"
+    }
+  }
 }
