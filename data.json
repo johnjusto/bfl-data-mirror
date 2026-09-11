@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T12:33:44.409Z",
+  "updatedAt": "2026-09-11T13:35:06.819Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -1123,7 +1123,7 @@
       }
     ],
     "note": "Todos os confrontos dessa semana já têm pontuação parcial.",
-    "updatedAt": "2026-09-11T12:33:44.197Z"
+    "updatedAt": "2026-09-11T13:35:06.633Z"
   },
   "weeks": [],
   "rosters": {
@@ -2164,6 +2164,7 @@
     {
       "id": "0fc9684a-0dce-4b61-bb99-6f752a6a3494",
       "date": "2026-09-10T16:47:16.997Z",
+      "week": 1,
       "teams": [
         1,
         12
