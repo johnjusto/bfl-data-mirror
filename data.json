@@ -2227,6 +2227,37 @@
       "outros": "",
       "updatedAt": "2026-09-11T13:16:26.527Z"
     },
+    "4": {
+      "espnId": 4,
+      "teamName": "Tampa Bay Badidas",
+      "managerName": "Marcos",
+      "interesse": [],
+      "negociaveis": [
+        {
+          "name": "Makai Lemon",
+          "pos": "WR",
+          "proTeam": "PHI"
+        },
+        {
+          "name": "Jake Ferguson",
+          "pos": "TE",
+          "proTeam": "DAL"
+        },
+        {
+          "name": "Jerry Jeudy",
+          "pos": "WR",
+          "proTeam": "CLE"
+        },
+        {
+          "name": "Justice Hill",
+          "pos": "RB",
+          "proTeam": "BAL"
+        }
+      ],
+      "nota": "RB 3 (COM POTENCIAL FUTURO DE RB2)",
+      "outros": "",
+      "updatedAt": "2026-09-11T22:28:26.604Z"
+    },
     "8": {
       "espnId": 8,
       "teamName": "Djow's Team",
