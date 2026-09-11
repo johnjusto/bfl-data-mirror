@@ -2383,6 +2383,34 @@
       "nota": "",
       "outros": "",
       "updatedAt": "2026-09-11T13:17:11.790Z"
+    },
+    "12": {
+      "espnId": 12,
+      "teamName": "Tinoco FC",
+      "managerName": "Breno",
+      "interesse": [
+        "WR"
+      ],
+      "negociaveis": [
+        {
+          "name": "Joe Burrow",
+          "pos": "QB",
+          "proTeam": "CIN"
+        },
+        {
+          "name": "Hunter Henry",
+          "pos": "TE",
+          "proTeam": "NE"
+        },
+        {
+          "name": "Jared Goff",
+          "pos": "QB",
+          "proTeam": "DET"
+        }
+      ],
+      "nota": "WR1 ou WR2",
+      "outros": "",
+      "updatedAt": "2026-09-11T14:19:32.262Z"
     }
   },
   "nflGames": {
