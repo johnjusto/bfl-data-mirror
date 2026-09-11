@@ -2232,18 +2232,19 @@
       "teamName": "Tampa Bay Badidas",
       "managerName": "Marcos",
       "interesse": [
-        "RB"
+        "RB",
+        "WR"
       ],
       "negociaveis": [
         {
-          "name": "Justice Hill",
-          "pos": "RB",
-          "proTeam": "BAL"
+          "name": "Stefon Diggs",
+          "pos": "WR",
+          "proTeam": "WSH"
         },
         {
-          "name": "Jerry Jeudy",
+          "name": "Wan'Dale Robinson",
           "pos": "WR",
-          "proTeam": "CLE"
+          "proTeam": "TEN"
         },
         {
           "name": "Makai Lemon",
@@ -2254,11 +2255,21 @@
           "name": "Jake Ferguson",
           "pos": "TE",
           "proTeam": "DAL"
+        },
+        {
+          "name": "Jerry Jeudy",
+          "pos": "WR",
+          "proTeam": "CLE"
+        },
+        {
+          "name": "Justice Hill",
+          "pos": "RB",
+          "proTeam": "BAL"
         }
       ],
-      "nota": "RB1 ou RB2",
+      "nota": "RB1 ou RB2, WR 2 ou WR3",
       "outros": "",
-      "updatedAt": "2026-09-11T13:47:29.834Z"
+      "updatedAt": "2026-09-11T22:01:27.558Z"
     },
     "8": {
       "espnId": 8,
