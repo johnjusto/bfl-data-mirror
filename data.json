@@ -2198,6 +2198,34 @@
     }
   ],
   "tradeBlock": {
+    "8": {
+      "espnId": 8,
+      "teamName": "Djow's Team",
+      "managerName": "Thiago",
+      "interesse": [
+        "RB"
+      ],
+      "negociaveis": [
+        {
+          "name": "DJ Moore",
+          "pos": "WR",
+          "proTeam": "BUF"
+        },
+        {
+          "name": "Mike Evans",
+          "pos": "WR",
+          "proTeam": "SF"
+        },
+        {
+          "name": "Michael Pittman Jr.",
+          "pos": "WR",
+          "proTeam": "PIT"
+        }
+      ],
+      "nota": "Rb2",
+      "outros": "",
+      "updatedAt": "2026-09-11T13:14:52.050Z"
+    },
     "9": {
       "espnId": 9,
       "teamName": "LaPorta dos Desesperados",
