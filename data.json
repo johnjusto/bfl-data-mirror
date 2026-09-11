@@ -2232,8 +2232,7 @@
       "teamName": "Tampa Bay Badidas",
       "managerName": "Marcos",
       "interesse": [
-        "RB",
-        "WR"
+        "RB"
       ],
       "negociaveis": [
         {
@@ -2262,9 +2261,9 @@
           "proTeam": "BAL"
         }
       ],
-      "nota": "RB1 ou RB2;  WR2 ou WR3",
+      "nota": "RB3",
       "outros": "",
-      "updatedAt": "2026-09-11T22:04:49.417Z"
+      "updatedAt": "2026-09-11T22:24:42.711Z"
     },
     "8": {
       "espnId": 8,
