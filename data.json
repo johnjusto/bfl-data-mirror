@@ -2389,7 +2389,8 @@
       "teamName": "Tinoco FC",
       "managerName": "Breno",
       "interesse": [
-        "RB"
+        "RB",
+        "WR"
       ],
       "negociaveis": [
         {
@@ -2408,9 +2409,9 @@
           "proTeam": "DET"
         }
       ],
-      "nota": "RB1 ou RB2",
+      "nota": "WR1 ou WR2",
       "outros": "",
-      "updatedAt": "2026-09-11T14:18:47.451Z"
+      "updatedAt": "2026-09-11T14:19:08.524Z"
     }
   },
   "nflGames": {
