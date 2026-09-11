@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T11:41:47.396Z",
+  "updatedAt": "2026-09-11T11:47:33.634Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,6 +8,30 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -72,33 +96,8 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     }
   },
-  "weeks": [],
   "history": [
     {
       "champion": "TENNESSEE",
@@ -1126,7 +1125,7 @@
     "updatedAt": "2026-09-10T12:16:19.841Z",
     "week": 1
   },
-  "tradeBlock": {},
+  "weeks": [],
   "rosters": {
     "1": [
       {
@@ -2172,5 +2171,6 @@
       "items": [],
       "detailKnown": false
     }
-  ]
+  ],
+  "tradeBlock": {}
 }
