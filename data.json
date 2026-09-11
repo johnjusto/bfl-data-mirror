@@ -9,30 +9,6 @@
       "owner": "Daniel Di Giovanni",
       "seed": 7
     },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
-    },
     "2": {
       "abbrev": "TN",
       "calendarName": "Lucas",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "weeks": [],
@@ -1125,5 +1125,26 @@
     "note": "Patriots @ Seahawks de quarta já rolou e alimentou esses pontos parciais; os demais confrontos da NFL ainda não começaram.",
     "updatedAt": "2026-09-10T12:16:19.841Z",
     "week": 1
+  },
+  "tradeBlock": {
+    "8": {
+      "espnId": 8,
+      "teamName": "Djow's Team",
+      "managerName": "Thiago",
+      "interesse": [
+        "RB",
+        "WR"
+      ],
+      "negociaveis": [
+        {
+          "name": "Teste Jogador",
+          "pos": "WR",
+          "proTeam": "CLE"
+        }
+      ],
+      "nota": "teste automatico do endpoint",
+      "outros": "",
+      "updatedAt": "2026-09-11T11:35:23.286Z"
+    }
   }
 }
