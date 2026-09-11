@@ -2237,16 +2237,6 @@
       ],
       "negociaveis": [
         {
-          "name": "Stefon Diggs",
-          "pos": "WR",
-          "proTeam": "WSH"
-        },
-        {
-          "name": "Wan'Dale Robinson",
-          "pos": "WR",
-          "proTeam": "TEN"
-        },
-        {
           "name": "Makai Lemon",
           "pos": "WR",
           "proTeam": "PHI"
@@ -2267,9 +2257,9 @@
           "proTeam": "BAL"
         }
       ],
-      "nota": "RB1 ou RB2, WR 2 ou WR3",
+      "nota": "RB1 ou RB2, WR2 ou WR3",
       "outros": "",
-      "updatedAt": "2026-09-11T22:01:27.558Z"
+      "updatedAt": "2026-09-11T22:02:43.726Z"
     },
     "8": {
       "espnId": 8,
