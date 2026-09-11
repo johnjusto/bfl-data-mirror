@@ -2260,8 +2260,7 @@
       "teamName": "LaPorta dos Desesperados",
       "managerName": "Joao Justo",
       "interesse": [
-        "WR",
-        "RB"
+        "WR"
       ],
       "negociaveis": [
         {
@@ -2286,8 +2285,8 @@
         }
       ],
       "nota": "",
-      "outros": "teste visual card (apagar)",
-      "updatedAt": "2026-09-11T13:35:36.952Z"
+      "outros": "",
+      "updatedAt": "2026-09-11T13:36:57.755Z"
     },
     "10": {
       "espnId": 10,
