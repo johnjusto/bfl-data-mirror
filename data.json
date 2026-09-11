@@ -2286,6 +2286,49 @@
       "nota": "",
       "outros": "",
       "updatedAt": "2026-09-11T12:37:17.194Z"
+    },
+    "10": {
+      "espnId": 10,
+      "teamName": "Saints",
+      "managerName": "João novo",
+      "interesse": [
+        "RB"
+      ],
+      "negociaveis": [
+        {
+          "name": "Jameson Williams",
+          "pos": "WR",
+          "proTeam": "DET"
+        },
+        {
+          "name": "Blake Corum",
+          "pos": "RB",
+          "proTeam": "LAR"
+        },
+        {
+          "name": "Jakobi Meyers",
+          "pos": "WR",
+          "proTeam": "JAX"
+        },
+        {
+          "name": "Jacory Croskey-Merritt",
+          "pos": "RB",
+          "proTeam": "WSH"
+        },
+        {
+          "name": "Jordan Addison",
+          "pos": "WR",
+          "proTeam": "MIN"
+        },
+        {
+          "name": "Chris Brooks",
+          "pos": "RB",
+          "proTeam": "GB"
+        }
+      ],
+      "nota": "",
+      "outros": "",
+      "updatedAt": "2026-09-11T13:17:11.790Z"
     }
   }
 }
