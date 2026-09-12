@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T08:17:16.571Z",
+  "updatedAt": "2026-09-12T08:58:31.339Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -1123,7 +1123,7 @@
       }
     ],
     "note": "Todos os confrontos dessa semana já têm pontuação parcial.",
-    "updatedAt": "2026-09-11T14:08:46.675Z"
+    "updatedAt": "2026-09-12T08:58:31.078Z"
   },
   "weeks": [],
   "rosters": {
@@ -1518,7 +1518,7 @@
         "name": "Jonathon Brooks",
         "pos": "RB",
         "proTeam": "CAR",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Zach Charbonnet",
@@ -1690,7 +1690,7 @@
         "name": "Alec Pierce",
         "pos": "WR",
         "proTeam": "IND",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Seahawks D/ST",
@@ -1960,13 +1960,13 @@
         "name": "Jakobi Meyers",
         "pos": "WR",
         "proTeam": "JAX",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Jacory Croskey-Merritt",
         "pos": "RB",
         "proTeam": "WSH",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Jordan Addison",
@@ -2084,7 +2084,7 @@
         "name": "A.J. Brown",
         "pos": "WR",
         "proTeam": "NE",
-        "injury": "QUESTIONABLE"
+        "injury": "INJURY_RESERVE"
       },
       {
         "name": "Lamar Jackson",
@@ -2724,6 +2724,6 @@
         }
       }
     ],
-    "updatedAt": "2026-09-11T14:08:46.729Z"
+    "updatedAt": "2026-09-12T08:58:31.128Z"
   }
 }
