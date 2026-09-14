@@ -2355,39 +2355,6 @@
       "outros": "",
       "updatedAt": "2026-09-11T15:47:03.136Z"
     },
-    "9": {
-      "espnId": 9,
-      "teamName": "LaPorta dos Desesperados",
-      "managerName": "Joao Justo",
-      "interesse": [
-        "WR"
-      ],
-      "negociaveis": [
-        {
-          "name": "Rome Odunze",
-          "pos": "WR",
-          "proTeam": "CHI"
-        },
-        {
-          "name": "J.K. Dobbins",
-          "pos": "RB",
-          "proTeam": "DEN"
-        },
-        {
-          "name": "Xavier Worthy",
-          "pos": "WR",
-          "proTeam": "KC"
-        },
-        {
-          "name": "Kayshon Boutte",
-          "pos": "WR",
-          "proTeam": "HOU"
-        }
-      ],
-      "nota": "",
-      "outros": "",
-      "updatedAt": "2026-09-11T13:45:17.104Z"
-    },
     "10": {
       "espnId": 10,
       "teamName": "Saints",
