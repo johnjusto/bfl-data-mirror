@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T08:58:31.472Z",
+  "updatedAt": "2026-09-14T08:16:59.370Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,6 +8,30 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -72,30 +96,6 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     }
   },
   "history": [
@@ -1082,6 +1082,7 @@
       ]
     }
   },
+  "weeks": [],
   "live": {
     "week": 1,
     "games": [
@@ -1125,7 +1126,6 @@
     "note": "Todos os confrontos dessa semana já têm pontuação parcial.",
     "updatedAt": "2026-09-13T08:58:31.228Z"
   },
-  "weeks": [],
   "rosters": {
     "1": [
       {
