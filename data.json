@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T08:17:58.630Z",
+  "updatedAt": "2026-09-16T08:58:31.426Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-09-15T08:58:31.321Z"
+      "capturedAt": "2026-09-16T08:58:31.179Z"
     }
   ],
   "live": {
@@ -1173,7 +1173,7 @@
       }
     ],
     "note": "Os confrontos dessa semana ainda não começaram.",
-    "updatedAt": "2026-09-15T08:58:31.321Z"
+    "updatedAt": "2026-09-16T08:58:31.180Z"
   },
   "rosters": {
     "1": [
@@ -1244,21 +1244,21 @@
         "injury": ""
       },
       {
-        "name": "Raiders D/ST",
-        "pos": "D/ST",
-        "proTeam": "LV",
-        "injury": ""
-      },
-      {
         "name": "Parker Washington",
         "pos": "WR",
         "proTeam": "JAX",
         "injury": ""
       },
       {
-        "name": "Terrance Ferguson",
-        "pos": "TE",
-        "proTeam": "LAR",
+        "name": "49ers D/ST",
+        "pos": "D/ST",
+        "proTeam": "SF",
+        "injury": ""
+      },
+      {
+        "name": "Caleb Douglas",
+        "pos": "WR",
+        "proTeam": "MIA",
         "injury": ""
       }
     ],
@@ -1273,7 +1273,7 @@
         "name": "Brock Bowers",
         "pos": "TE",
         "proTeam": "LV",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Garrett Wilson",
@@ -1413,13 +1413,7 @@
         "name": "Alvin Kamara",
         "pos": "RB",
         "proTeam": "NO",
-        "injury": "OUT"
-      },
-      {
-        "name": "Keenan Allen",
-        "pos": "WR",
-        "proTeam": "IND",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Jaguars D/ST",
@@ -1431,6 +1425,12 @@
         "name": "Jaylin Noel",
         "pos": "WR",
         "proTeam": "HOU",
+        "injury": ""
+      },
+      {
+        "name": "T.J. Hockenson",
+        "pos": "TE",
+        "proTeam": "MIN",
         "injury": ""
       }
     ],
@@ -1502,21 +1502,21 @@
         "injury": ""
       },
       {
-        "name": "Justice Hill",
-        "pos": "RB",
-        "proTeam": "BAL",
-        "injury": ""
-      },
-      {
         "name": "J.K. Dobbins",
         "pos": "RB",
         "proTeam": "DEN",
         "injury": ""
       },
       {
-        "name": "Kayshon Boutte",
-        "pos": "WR",
-        "proTeam": "HOU",
+        "name": "Kaelon Black",
+        "pos": "RB",
+        "proTeam": "SF",
+        "injury": ""
+      },
+      {
+        "name": "Buccaneers D/ST",
+        "pos": "D/ST",
+        "proTeam": "TB",
         "injury": ""
       }
     ],
@@ -1668,12 +1668,6 @@
         "injury": ""
       },
       {
-        "name": "Texans D/ST",
-        "pos": "D/ST",
-        "proTeam": "HOU",
-        "injury": ""
-      },
-      {
         "name": "Travis Hunter",
         "pos": "WR",
         "proTeam": "JAX",
@@ -1689,6 +1683,12 @@
         "name": "Tyler Shough",
         "pos": "QB",
         "proTeam": "NO",
+        "injury": ""
+      },
+      {
+        "name": "Chiefs D/ST",
+        "pos": "D/ST",
+        "proTeam": "KC",
         "injury": ""
       }
     ],
@@ -1754,18 +1754,6 @@
         "injury": ""
       },
       {
-        "name": "Tre Tucker",
-        "pos": "WR",
-        "proTeam": "LV",
-        "injury": ""
-      },
-      {
-        "name": "Tyjae Spears",
-        "pos": "RB",
-        "proTeam": "TEN",
-        "injury": ""
-      },
-      {
         "name": "Najee Harris",
         "pos": "RB",
         "proTeam": "NYG",
@@ -1775,6 +1763,18 @@
         "name": "Jauan Jennings",
         "pos": "WR",
         "proTeam": "MIN",
+        "injury": ""
+      },
+      {
+        "name": "Denzel Boston",
+        "pos": "WR",
+        "proTeam": "CLE",
+        "injury": ""
+      },
+      {
+        "name": "Mike Gesicki",
+        "pos": "TE",
+        "proTeam": "CIN",
         "injury": ""
       }
     ],
@@ -1813,7 +1813,7 @@
         "name": "TreVeyon Henderson",
         "pos": "RB",
         "proTeam": "NE",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Mike Evans",
@@ -1932,12 +1932,6 @@
         "injury": "DOUBTFUL"
       },
       {
-        "name": "Jordyn Tyson",
-        "pos": "WR",
-        "proTeam": "NO",
-        "injury": "INJURY_RESERVE"
-      },
-      {
         "name": "Makai Lemon",
         "pos": "WR",
         "proTeam": "PHI",
@@ -1947,6 +1941,12 @@
         "name": "Woody Marks",
         "pos": "RB",
         "proTeam": "HOU",
+        "injury": ""
+      },
+      {
+        "name": "Devaughn Vele",
+        "pos": "WR",
+        "proTeam": "NO",
         "injury": ""
       }
     ],
@@ -2021,18 +2021,6 @@
         "name": "Jordan Addison",
         "pos": "WR",
         "proTeam": "MIN",
-        "injury": ""
-      },
-      {
-        "name": "Titans D/ST",
-        "pos": "D/ST",
-        "proTeam": "TEN",
-        "injury": ""
-      },
-      {
-        "name": "Chris Brooks",
-        "pos": "RB",
-        "proTeam": "GB",
         "injury": ""
       }
     ],
@@ -2113,7 +2101,7 @@
         "name": "Dylan Sampson",
         "pos": "RB",
         "proTeam": "CLE",
-        "injury": "OUT"
+        "injury": "INJURY_RESERVE"
       },
       {
         "name": "Chargers D/ST",
@@ -2784,6 +2772,6 @@
         }
       }
     ],
-    "updatedAt": "2026-09-15T08:58:31.369Z"
+    "updatedAt": "2026-09-16T08:58:31.215Z"
   }
 }
