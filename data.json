@@ -2285,7 +2285,8 @@
       "teamName": "Dallas Cowboys",
       "managerName": "DO",
       "interesse": [
-        "WR"
+        "WR",
+        "RB"
       ],
       "negociaveis": [
         {
@@ -2302,11 +2303,16 @@
           "name": "Romeo Doubs",
           "pos": "WR",
           "proTeam": "NE"
+        },
+        {
+          "name": "Caleb Douglas",
+          "pos": "WR",
+          "proTeam": "MIA"
         }
       ],
-      "nota": "WR3",
+      "nota": "WR3 / RB4",
       "outros": "",
-      "updatedAt": "2026-09-11T13:16:26.527Z"
+      "updatedAt": "2026-09-16T09:10:04.659Z"
     },
     "4": {
       "espnId": 4,
