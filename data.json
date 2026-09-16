@@ -2285,8 +2285,7 @@
       "teamName": "Dallas Cowboys",
       "managerName": "DO",
       "interesse": [
-        "WR",
-        "RB"
+        "WR"
       ],
       "negociaveis": [
         {
@@ -2312,7 +2311,7 @@
       ],
       "nota": "WR3 / RB4",
       "outros": "",
-      "updatedAt": "2026-09-16T09:10:04.659Z"
+      "updatedAt": "2026-09-16T09:12:29.415Z"
     },
     "4": {
       "espnId": 4,
