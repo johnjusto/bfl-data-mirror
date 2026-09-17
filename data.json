@@ -2292,6 +2292,35 @@
     }
   ],
   "tradeBlock": {
+    "1": {
+      "espnId": 1,
+      "teamName": "Dallas Cowboys",
+      "managerName": "DO",
+      "interesse": [
+        "RB",
+        "WR"
+      ],
+      "negociaveis": [
+        {
+          "name": "Chuba Hubbard",
+          "pos": "RB",
+          "proTeam": "CAR"
+        },
+        {
+          "name": "Michael Wilson",
+          "pos": "WR",
+          "proTeam": "ARI"
+        },
+        {
+          "name": "Romeo Doubs",
+          "pos": "WR",
+          "proTeam": "NE"
+        }
+      ],
+      "nota": "WR3 / RB4",
+      "outros": "",
+      "updatedAt": "2026-09-17T17:28:50.651Z"
+    },
     "4": {
       "espnId": 4,
       "teamName": "Tampa Bay Badidas",
