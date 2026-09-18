@@ -2341,6 +2341,11 @@
           "proTeam": "WSH"
         },
         {
+          "name": "Wan'Dale Robinson",
+          "pos": "WR",
+          "proTeam": "TEN"
+        },
+        {
           "name": "Jake Ferguson",
           "pos": "TE",
           "proTeam": "DAL"
@@ -2356,9 +2361,9 @@
           "proTeam": "SF"
         }
       ],
-      "nota": "RB 3 (COM POTENCIAL FUTURO DE RB2)",
+      "nota": "WR e RB",
       "outros": "",
-      "updatedAt": "2026-09-18T01:40:37.620Z"
+      "updatedAt": "2026-09-18T01:40:57.918Z"
     },
     "8": {
       "espnId": 8,
