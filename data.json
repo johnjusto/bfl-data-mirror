@@ -2418,6 +2418,37 @@
       "outros": "",
       "updatedAt": "2026-09-11T15:47:03.136Z"
     },
+    "9": {
+      "espnId": 9,
+      "teamName": "LaPorta dos Desesperados",
+      "managerName": "Joao Justo",
+      "interesse": [],
+      "negociaveis": [
+        {
+          "name": "Breece Hall",
+          "pos": "RB",
+          "proTeam": "NYJ"
+        },
+        {
+          "name": "Rome Odunze",
+          "pos": "WR",
+          "proTeam": "CHI"
+        },
+        {
+          "name": "Courtland Sutton",
+          "pos": "WR",
+          "proTeam": "DEN"
+        },
+        {
+          "name": "Devaughn Vele",
+          "pos": "WR",
+          "proTeam": "NO"
+        }
+      ],
+      "nota": "",
+      "outros": "",
+      "updatedAt": "2026-09-18T13:47:50.918Z"
+    },
     "10": {
       "espnId": 10,
       "teamName": "Saints",
