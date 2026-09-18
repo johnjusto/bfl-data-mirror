@@ -2422,7 +2422,9 @@
       "espnId": 9,
       "teamName": "LaPorta dos Desesperados",
       "managerName": "Joao Justo",
-      "interesse": [],
+      "interesse": [
+        "WR"
+      ],
       "negociaveis": [
         {
           "name": "Breece Hall",
@@ -2445,9 +2447,9 @@
           "proTeam": "NO"
         }
       ],
-      "nota": "",
+      "nota": "WR1/2",
       "outros": "",
-      "updatedAt": "2026-09-18T13:47:50.918Z"
+      "updatedAt": "2026-09-18T13:48:06.539Z"
     },
     "10": {
       "espnId": 10,
