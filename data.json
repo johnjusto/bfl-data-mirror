@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T08:17:03.486Z",
+  "updatedAt": "2026-09-19T08:58:31.389Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-09-18T08:58:31.496Z"
+      "capturedAt": "2026-09-19T08:58:31.108Z"
     }
   ],
   "live": {
@@ -1173,7 +1173,7 @@
       }
     ],
     "note": "5 de 6 confrontos já têm pontuação parcial; os demais ainda não começaram.",
-    "updatedAt": "2026-09-18T08:58:31.496Z"
+    "updatedAt": "2026-09-19T08:58:31.108Z"
   },
   "rosters": {
     "1": [
@@ -1205,7 +1205,7 @@
         "name": "D'Andre Swift",
         "pos": "RB",
         "proTeam": "CHI",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Luther Burden III",
@@ -1273,7 +1273,7 @@
         "name": "Brock Bowers",
         "pos": "TE",
         "proTeam": "LV",
-        "injury": "QUESTIONABLE"
+        "injury": "DOUBTFUL"
       },
       {
         "name": "Garrett Wilson",
@@ -1321,7 +1321,7 @@
         "name": "Jalen Coker",
         "pos": "WR",
         "proTeam": "CAR",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Panthers D/ST",
@@ -1359,7 +1359,7 @@
         "name": "Zay Flowers",
         "pos": "WR",
         "proTeam": "BAL",
-        "injury": "QUESTIONABLE"
+        "injury": "DOUBTFUL"
       },
       {
         "name": "Davante Adams",
@@ -1383,7 +1383,7 @@
         "name": "Brian Thomas Jr.",
         "pos": "WR",
         "proTeam": "JAX",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Jaylen Warren",
@@ -1537,7 +1537,7 @@
         "name": "George Kittle",
         "pos": "TE",
         "proTeam": "SF",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Javonte Williams",
@@ -1611,7 +1611,7 @@
         "name": "Puka Nacua",
         "pos": "WR",
         "proTeam": "LAR",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Ashton Jeanty",
@@ -1739,7 +1739,7 @@
         "name": "Alec Pierce",
         "pos": "WR",
         "proTeam": "IND",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Seahawks D/ST",
@@ -1843,7 +1843,7 @@
         "name": "Kyle Monangai",
         "pos": "RB",
         "proTeam": "CHI",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Eagles D/ST",
@@ -1938,15 +1938,15 @@
         "injury": ""
       },
       {
-        "name": "Devin Singletary",
-        "pos": "RB",
-        "proTeam": "NYG",
-        "injury": ""
-      },
-      {
         "name": "Texans D/ST",
         "pos": "D/ST",
         "proTeam": "HOU",
+        "injury": ""
+      },
+      {
+        "name": "Josh Downs",
+        "pos": "WR",
+        "proTeam": "IND",
         "injury": ""
       }
     ],
@@ -2009,7 +2009,7 @@
         "name": "Jakobi Meyers",
         "pos": "WR",
         "proTeam": "JAX",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Jacory Croskey-Merritt",
@@ -2027,7 +2027,7 @@
         "name": "Juwan Johnson",
         "pos": "TE",
         "proTeam": "NO",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Patriots D/ST",
@@ -2053,7 +2053,7 @@
         "name": "Nico Collins",
         "pos": "WR",
         "proTeam": "HOU",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "DeVonta Smith",
@@ -2831,6 +2831,6 @@
         }
       }
     ],
-    "updatedAt": "2026-09-18T08:58:31.545Z"
+    "updatedAt": "2026-09-19T08:58:31.171Z"
   }
 }
