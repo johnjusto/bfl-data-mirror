@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T08:17:43.872Z",
+  "updatedAt": "2026-09-25T08:58:32.079Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-09-24T08:58:31.401Z"
+      "capturedAt": "2026-09-25T08:58:31.692Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-09-24T08:58:31.401Z"
+      "capturedAt": "2026-09-25T08:58:31.692Z"
     }
   ],
   "live": {
@@ -1187,7 +1187,7 @@
         "home": 6,
         "away": 8,
         "homeScore": 0,
-        "awayScore": 0
+        "awayScore": 23.9
       },
       {
         "home": 4,
@@ -1198,14 +1198,14 @@
       {
         "home": 11,
         "away": 10,
-        "homeScore": 0,
+        "homeScore": 19.1,
         "awayScore": 0
       },
       {
         "home": 7,
         "away": 12,
         "homeScore": 0,
-        "awayScore": 0
+        "awayScore": 19.4
       },
       {
         "home": 3,
@@ -1216,12 +1216,12 @@
       {
         "home": 1,
         "away": 2,
-        "homeScore": 0,
+        "homeScore": 34.3,
         "awayScore": 0
       }
     ],
-    "note": "Os confrontos dessa semana ainda não começaram.",
-    "updatedAt": "2026-09-24T08:58:31.401Z"
+    "note": "4 de 6 confrontos já têm pontuação parcial; os demais ainda não começaram.",
+    "updatedAt": "2026-09-25T08:58:31.692Z"
   },
   "rosters": {
     "1": [
@@ -1333,7 +1333,7 @@
         "name": "Malik Nabers",
         "pos": "WR",
         "proTeam": "NYG",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "David Montgomery",
@@ -1547,7 +1547,7 @@
         "name": "J.K. Dobbins",
         "pos": "RB",
         "proTeam": "DEN",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Kaelon Black",
@@ -1731,7 +1731,7 @@
         "name": "Adonai Mitchell",
         "pos": "WR",
         "proTeam": "NYJ",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Rashod Bateman",
@@ -1823,7 +1823,7 @@
         "name": "Cooper Kupp",
         "pos": "WR",
         "proTeam": "SEA",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       }
     ],
     "8": [
@@ -1879,7 +1879,7 @@
         "name": "RJ Harvey",
         "pos": "RB",
         "proTeam": "DEN",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Kyle Monangai",
@@ -1909,7 +1909,7 @@
         "name": "Tank Bigsby",
         "pos": "RB",
         "proTeam": "PHI",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       }
     ],
     "9": [
@@ -2107,7 +2107,7 @@
         "name": "DeVonta Smith",
         "pos": "WR",
         "proTeam": "PHI",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Terry McLaurin",
@@ -2158,15 +2158,15 @@
         "injury": ""
       },
       {
-        "name": "Chargers D/ST",
-        "pos": "D/ST",
-        "proTeam": "LAC",
-        "injury": ""
-      },
-      {
         "name": "Raheim Sanders",
         "pos": "RB",
         "proTeam": "CLE",
+        "injury": ""
+      },
+      {
+        "name": "Bills D/ST",
+        "pos": "D/ST",
+        "proTeam": "BUF",
         "injury": ""
       }
     ],
@@ -2576,21 +2576,21 @@
     "games": [
       {
         "date": "2026-09-25T00:15Z",
-        "statusDetail": "9/24 - 8:15 PM EDT",
-        "state": "pre",
-        "completed": false,
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
         "network": "Prime Video",
         "home": {
           "name": "Green Bay Packers",
           "abbr": "GB",
           "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-          "score": "0"
+          "score": "14"
         },
         "away": {
           "name": "Atlanta Falcons",
           "abbr": "ATL",
           "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
-          "score": "0"
+          "score": "35"
         }
       },
       {
@@ -2879,6 +2879,6 @@
         }
       }
     ],
-    "updatedAt": "2026-09-24T08:58:31.455Z"
+    "updatedAt": "2026-09-25T08:58:31.742Z"
   }
 }
