@@ -2369,45 +2369,6 @@
       "outros": "",
       "updatedAt": "2026-09-17T17:33:23.887Z"
     },
-    "4": {
-      "espnId": 4,
-      "teamName": "Tampa Bay Badidas",
-      "managerName": "Marcos",
-      "interesse": [
-        "RB",
-        "WR"
-      ],
-      "negociaveis": [
-        {
-          "name": "Kyle Pitts Sr.",
-          "pos": "TE",
-          "proTeam": "ATL"
-        },
-        {
-          "name": "Stefon Diggs",
-          "pos": "WR",
-          "proTeam": "WSH"
-        },
-        {
-          "name": "Wan'Dale Robinson",
-          "pos": "WR",
-          "proTeam": "TEN"
-        },
-        {
-          "name": "Jake Ferguson",
-          "pos": "TE",
-          "proTeam": "DAL"
-        },
-        {
-          "name": "Kaelon Black",
-          "pos": "RB",
-          "proTeam": "SF"
-        }
-      ],
-      "nota": "WR3 e RB3",
-      "outros": "",
-      "updatedAt": "2026-09-26T14:49:16.318Z"
-    },
     "8": {
       "espnId": 8,
       "teamName": "Djow's Team",
