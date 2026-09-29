@@ -2388,39 +2388,6 @@
     }
   ],
   "tradeBlock": {
-    "1": {
-      "espnId": 1,
-      "teamName": "Dallas Cowboys",
-      "managerName": "DO",
-      "interesse": [
-        "WR"
-      ],
-      "negociaveis": [
-        {
-          "name": "D'Andre Swift",
-          "pos": "RB",
-          "proTeam": "CHI"
-        },
-        {
-          "name": "Luther Burden III",
-          "pos": "WR",
-          "proTeam": "CHI"
-        },
-        {
-          "name": "Chuba Hubbard",
-          "pos": "RB",
-          "proTeam": "CAR"
-        },
-        {
-          "name": "Michael Wilson",
-          "pos": "WR",
-          "proTeam": "ARI"
-        }
-      ],
-      "nota": "",
-      "outros": "",
-      "updatedAt": "2026-09-29T19:38:19.182Z"
-    },
     "4": {
       "espnId": 4,
       "teamName": "Tampa Bay Badidas",
