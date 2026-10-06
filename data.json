@@ -2558,6 +2558,11 @@
       ],
       "negociaveis": [
         {
+          "name": "Travis Etienne Jr.",
+          "pos": "RB",
+          "proTeam": "NO"
+        },
+        {
           "name": "Jameson Williams",
           "pos": "WR",
           "proTeam": "DET"
@@ -2583,14 +2588,14 @@
           "proTeam": "MIN"
         },
         {
-          "name": "Chris Brooks",
+          "name": "Braelon Allen",
           "pos": "RB",
-          "proTeam": "GB"
+          "proTeam": "NYJ"
         }
       ],
       "nota": "RB2",
       "outros": "",
-      "updatedAt": "2026-09-11T22:27:12.486Z"
+      "updatedAt": "2026-10-06T19:19:09.490Z"
     },
     "12": {
       "espnId": 12,
