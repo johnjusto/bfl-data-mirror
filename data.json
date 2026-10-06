@@ -2470,6 +2470,32 @@
       "outros": "",
       "updatedAt": "2026-09-29T19:41:23.760Z"
     },
+    "4": {
+      "espnId": 4,
+      "teamName": "Tampa Bay Badidas",
+      "managerName": "Marcos",
+      "interesse": [],
+      "negociaveis": [
+        {
+          "name": "Michael Pittman Jr.",
+          "pos": "WR",
+          "proTeam": "PIT"
+        },
+        {
+          "name": "Darren Waller",
+          "pos": "TE",
+          "proTeam": "CAR"
+        },
+        {
+          "name": "George Holani",
+          "pos": "RB",
+          "proTeam": "SEA"
+        }
+      ],
+      "nota": "RB2, WR3",
+      "outros": "",
+      "updatedAt": "2026-10-06T19:17:21.974Z"
+    },
     "8": {
       "espnId": 8,
       "teamName": "Djow's Team",
