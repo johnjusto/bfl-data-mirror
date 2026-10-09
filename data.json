@@ -2520,11 +2520,6 @@
           "proTeam": "SF"
         },
         {
-          "name": "Michael Pittman Jr.",
-          "pos": "WR",
-          "proTeam": "PIT"
-        },
-        {
           "name": "RJ Harvey",
           "pos": "RB",
           "proTeam": "DEN"
@@ -2535,11 +2530,6 @@
           "proTeam": "CHI"
         },
         {
-          "name": "Tyler Allgeier",
-          "pos": "RB",
-          "proTeam": "ARI"
-        },
-        {
           "name": "Dontayvion Wicks",
           "pos": "WR",
           "proTeam": "PHI"
@@ -2547,7 +2537,7 @@
       ],
       "nota": "RB1 e RB2",
       "outros": "",
-      "updatedAt": "2026-09-11T15:47:03.136Z"
+      "updatedAt": "2026-10-09T16:12:57.071Z"
     },
     "10": {
       "espnId": 10,
