@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T08:17:38.336Z",
+  "updatedAt": "2026-10-15T14:46:15.694Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -1082,242 +1082,49 @@
       ]
     }
   },
-  "weeks": [
-    {
-      "week": 1,
-      "games": [
-        {
-          "home": 11,
-          "away": 8,
-          "homeScore": 105.24,
-          "awayScore": 140.56,
-          "winner": "AWAY"
-        },
-        {
-          "home": 2,
-          "away": 3,
-          "homeScore": 126.32,
-          "awayScore": 102.3,
-          "winner": "HOME"
-        },
-        {
-          "home": 4,
-          "away": 10,
-          "homeScore": 70.51,
-          "awayScore": 70.11,
-          "winner": "HOME"
-        },
-        {
-          "home": 12,
-          "away": 9,
-          "homeScore": 79.03,
-          "awayScore": 104.11,
-          "winner": "AWAY"
-        },
-        {
-          "home": 5,
-          "away": 6,
-          "homeScore": 123.69,
-          "awayScore": 92.68,
-          "winner": "HOME"
-        },
-        {
-          "home": 7,
-          "away": 1,
-          "homeScore": 119.82,
-          "awayScore": 200.69,
-          "winner": "AWAY"
-        }
-      ],
-      "capturedAt": "2026-10-10T08:58:31.380Z"
-    },
-    {
-      "week": 2,
-      "games": [
-        {
-          "home": 12,
-          "away": 3,
-          "homeScore": 71.56,
-          "awayScore": 131.28,
-          "winner": "AWAY"
-        },
-        {
-          "home": 6,
-          "away": 7,
-          "homeScore": 76.16,
-          "awayScore": 111.01,
-          "winner": "AWAY"
-        },
-        {
-          "home": 11,
-          "away": 2,
-          "homeScore": 116.66,
-          "awayScore": 120.03,
-          "winner": "AWAY"
-        },
-        {
-          "home": 4,
-          "away": 1,
-          "homeScore": 108.43,
-          "awayScore": 104.53,
-          "winner": "HOME"
-        },
-        {
-          "home": 8,
-          "away": 10,
-          "homeScore": 93.4,
-          "awayScore": 110.33,
-          "winner": "AWAY"
-        },
-        {
-          "home": 5,
-          "away": 9,
-          "homeScore": 122.06,
-          "awayScore": 107.02,
-          "winner": "HOME"
-        }
-      ],
-      "capturedAt": "2026-10-10T08:58:31.380Z"
-    },
-    {
-      "week": 3,
-      "games": [
-        {
-          "home": 6,
-          "away": 8,
-          "homeScore": 109.82,
-          "awayScore": 112.39,
-          "winner": "AWAY"
-        },
-        {
-          "home": 4,
-          "away": 9,
-          "homeScore": 87.06,
-          "awayScore": 75.13,
-          "winner": "HOME"
-        },
-        {
-          "home": 11,
-          "away": 10,
-          "homeScore": 93.18,
-          "awayScore": 96.18,
-          "winner": "AWAY"
-        },
-        {
-          "home": 7,
-          "away": 12,
-          "homeScore": 91.83,
-          "awayScore": 85.5,
-          "winner": "HOME"
-        },
-        {
-          "home": 3,
-          "away": 5,
-          "homeScore": 125.7,
-          "awayScore": 108.77,
-          "winner": "HOME"
-        },
-        {
-          "home": 1,
-          "away": 2,
-          "homeScore": 137.66,
-          "awayScore": 102.03,
-          "winner": "HOME"
-        }
-      ],
-      "capturedAt": "2026-10-10T08:58:31.380Z"
-    },
-    {
-      "week": 4,
-      "games": [
-        {
-          "home": 8,
-          "away": 9,
-          "homeScore": 96.14,
-          "awayScore": 142.3,
-          "winner": "AWAY"
-        },
-        {
-          "home": 3,
-          "away": 10,
-          "homeScore": 91.87,
-          "awayScore": 104.54,
-          "winner": "AWAY"
-        },
-        {
-          "home": 2,
-          "away": 6,
-          "homeScore": 119.72,
-          "awayScore": 127.65,
-          "winner": "AWAY"
-        },
-        {
-          "home": 5,
-          "away": 7,
-          "homeScore": 146.88,
-          "awayScore": 94.53,
-          "winner": "HOME"
-        },
-        {
-          "home": 4,
-          "away": 12,
-          "homeScore": 82.99,
-          "awayScore": 82.34,
-          "winner": "HOME"
-        },
-        {
-          "home": 11,
-          "away": 1,
-          "homeScore": 85.88,
-          "awayScore": 139.16,
-          "winner": "AWAY"
-        }
-      ],
-      "capturedAt": "2026-10-10T08:58:31.380Z"
-    }
-  ],
+  "weeks": [],
   "live": {
-    "week": 5,
     "games": [
       {
-        "home": 12,
         "away": 8,
-        "homeScore": 4.3,
-        "awayScore": 0
-      },
-      {
+        "awayScore": 0,
         "home": 11,
-        "away": 6,
-        "homeScore": 12.64,
-        "awayScore": 0
+        "homeScore": 0
       },
       {
-        "home": 4,
-        "away": 5,
-        "homeScore": 0,
-        "awayScore": 13.2
-      },
-      {
+        "away": 3,
+        "awayScore": 6.8,
         "home": 2,
-        "away": 9,
-        "homeScore": 5.5,
-        "awayScore": 0
+        "homeScore": 0
       },
       {
-        "home": 1,
         "away": 10,
-        "homeScore": 0,
-        "awayScore": 25.4
+        "awayScore": 0,
+        "home": 4,
+        "homeScore": 9.82
       },
       {
-        "home": 3,
-        "away": 7,
-        "homeScore": 0,
-        "awayScore": 44.7
+        "away": 9,
+        "awayScore": 0,
+        "home": 12,
+        "homeScore": 4.1
+      },
+      {
+        "away": 6,
+        "awayScore": 0,
+        "home": 5,
+        "homeScore": 34.2
+      },
+      {
+        "away": 1,
+        "awayScore": 0,
+        "home": 7,
+        "homeScore": 15.96
       }
     ],
-    "note": "Todos os confrontos dessa semana já têm pontuação parcial.",
-    "updatedAt": "2026-10-10T08:58:31.380Z"
+    "note": "Patriots @ Seahawks de quarta já rolou e alimentou esses pontos parciais; os demais confrontos da NFL ainda não começaram.",
+    "updatedAt": "2026-09-10T12:16:19.841Z",
+    "week": 1
   },
   "rosters": {
     "1": [
