@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T14:58:23.705Z",
+  "updatedAt": "2026-10-15T15:10:55.279Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-15T14:58:23.403Z"
+      "capturedAt": "2026-10-15T15:10:54.900Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-15T14:58:23.403Z"
+      "capturedAt": "2026-10-15T15:10:54.900Z"
     },
     {
       "week": 3,
@@ -1225,7 +1225,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-15T14:58:23.403Z"
+      "capturedAt": "2026-10-15T15:10:54.900Z"
     },
     {
       "week": 4,
@@ -1273,7 +1273,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-15T14:58:23.403Z"
+      "capturedAt": "2026-10-15T15:10:54.900Z"
     },
     {
       "week": 5,
@@ -1321,7 +1321,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-15T14:58:23.403Z"
+      "capturedAt": "2026-10-15T15:10:54.900Z"
     }
   ],
   "live": {
@@ -1365,7 +1365,7 @@
       }
     ],
     "note": "Os confrontos dessa semana ainda não começaram.",
-    "updatedAt": "2026-10-15T14:58:23.403Z"
+    "updatedAt": "2026-10-15T15:10:54.900Z"
   },
   "rosters": {
     "1": [
@@ -2986,6 +2986,6 @@
         }
       }
     ],
-    "updatedAt": "2026-10-15T14:58:23.469Z"
+    "updatedAt": "2026-10-15T15:10:54.944Z"
   }
 }
