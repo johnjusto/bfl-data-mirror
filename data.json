@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T08:17:30.906Z",
+  "updatedAt": "2026-10-17T08:34:18.933Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-16T08:34:18.129Z"
+      "capturedAt": "2026-10-17T08:34:18.628Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-16T08:34:18.129Z"
+      "capturedAt": "2026-10-17T08:34:18.628Z"
     },
     {
       "week": 3,
@@ -1225,7 +1225,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-16T08:34:18.129Z"
+      "capturedAt": "2026-10-17T08:34:18.628Z"
     },
     {
       "week": 4,
@@ -1273,7 +1273,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-16T08:34:18.129Z"
+      "capturedAt": "2026-10-17T08:34:18.628Z"
     },
     {
       "week": 5,
@@ -1321,7 +1321,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-16T08:34:18.129Z"
+      "capturedAt": "2026-10-17T08:34:18.628Z"
     }
   ],
   "live": {
@@ -1365,7 +1365,7 @@
       }
     ],
     "note": "5 de 6 confrontos já têm pontuação parcial; os demais ainda não começaram.",
-    "updatedAt": "2026-10-16T08:34:18.129Z"
+    "updatedAt": "2026-10-17T08:34:18.628Z"
   },
   "rosters": {
     "1": [
@@ -1391,7 +1391,7 @@
         "name": "Ladd McConkey",
         "pos": "WR",
         "proTeam": "LAC",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "D'Andre Swift",
@@ -1551,7 +1551,7 @@
         "name": "Zay Flowers",
         "pos": "WR",
         "proTeam": "BAL",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Davante Adams",
@@ -1643,7 +1643,7 @@
         "name": "Rashee Rice",
         "pos": "WR",
         "proTeam": "KC",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "Drake Maye",
@@ -1655,7 +1655,7 @@
         "name": "Rico Dowdle",
         "pos": "RB",
         "proTeam": "PIT",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Stefon Diggs",
@@ -1747,7 +1747,7 @@
         "name": "DK Metcalf",
         "pos": "WR",
         "proTeam": "PIT",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Khalil Shakir",
@@ -1815,7 +1815,7 @@
         "name": "Jeremiyah Love",
         "pos": "RB",
         "proTeam": "ARI",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "Quinshon Judkins",
@@ -1833,7 +1833,7 @@
         "name": "Tyler Warren",
         "pos": "TE",
         "proTeam": "IND",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Jayden Daniels",
@@ -1863,13 +1863,13 @@
         "name": "Adonai Mitchell",
         "pos": "WR",
         "proTeam": "NYJ",
-        "injury": "DOUBTFUL"
+        "injury": "OUT"
       },
       {
         "name": "Rashod Bateman",
         "pos": "WR",
         "proTeam": "BAL",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Keenan Allen",
@@ -1937,13 +1937,13 @@
         "name": "Quentin Johnston",
         "pos": "WR",
         "proTeam": "LAC",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Denzel Boston",
         "pos": "WR",
         "proTeam": "CLE",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Mike Gesicki",
@@ -2029,7 +2029,7 @@
         "name": "Kyle Monangai",
         "pos": "RB",
         "proTeam": "CHI",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "Bryce Young",
@@ -2251,7 +2251,7 @@
         "name": "DeVonta Smith",
         "pos": "WR",
         "proTeam": "PHI",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Terry McLaurin",
@@ -2281,7 +2281,7 @@
         "name": "Rachaad White",
         "pos": "RB",
         "proTeam": "WSH",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Aaron Jones Sr.",
@@ -2299,7 +2299,7 @@
         "name": "KC Concepcion",
         "pos": "WR",
         "proTeam": "CLE",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Raheim Sanders",
@@ -2319,7 +2319,7 @@
         "name": "Saquon Barkley",
         "pos": "RB",
         "proTeam": "PHI",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "A.J. Brown",
@@ -2331,7 +2331,7 @@
         "name": "Lamar Jackson",
         "pos": "QB",
         "proTeam": "BAL",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "Rams D/ST",
@@ -2349,12 +2349,6 @@
         "name": "Joe Burrow",
         "pos": "QB",
         "proTeam": "CIN",
-        "injury": ""
-      },
-      {
-        "name": "Kenny Gainwell",
-        "pos": "RB",
-        "proTeam": "TB",
         "injury": ""
       },
       {
@@ -2385,7 +2379,7 @@
         "name": "Breece Hall",
         "pos": "RB",
         "proTeam": "NYJ",
-        "injury": "DOUBTFUL"
+        "injury": "OUT"
       },
       {
         "name": "Devaughn Vele",
@@ -2397,6 +2391,12 @@
         "name": "Courtland Sutton",
         "pos": "WR",
         "proTeam": "DEN",
+        "injury": ""
+      },
+      {
+        "name": "Tyler Allgeier",
+        "pos": "RB",
+        "proTeam": "ARI",
         "injury": ""
       }
     ]
@@ -2986,6 +2986,6 @@
         }
       }
     ],
-    "updatedAt": "2026-10-16T08:34:18.177Z"
+    "updatedAt": "2026-10-17T08:34:18.686Z"
   }
 }
