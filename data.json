@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T08:17:02.329Z",
+  "updatedAt": "2026-10-18T08:34:18.419Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-17T08:34:18.628Z"
+      "capturedAt": "2026-10-18T08:34:18.081Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-17T08:34:18.628Z"
+      "capturedAt": "2026-10-18T08:34:18.081Z"
     },
     {
       "week": 3,
@@ -1225,7 +1225,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-17T08:34:18.628Z"
+      "capturedAt": "2026-10-18T08:34:18.081Z"
     },
     {
       "week": 4,
@@ -1273,7 +1273,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-17T08:34:18.628Z"
+      "capturedAt": "2026-10-18T08:34:18.081Z"
     },
     {
       "week": 5,
@@ -1321,7 +1321,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-17T08:34:18.628Z"
+      "capturedAt": "2026-10-18T08:34:18.081Z"
     }
   ],
   "live": {
@@ -1365,7 +1365,7 @@
       }
     ],
     "note": "5 de 6 confrontos já têm pontuação parcial; os demais ainda não começaram.",
-    "updatedAt": "2026-10-17T08:34:18.628Z"
+    "updatedAt": "2026-10-18T08:34:18.081Z"
   },
   "rosters": {
     "1": [
@@ -1409,7 +1409,7 @@
         "name": "Jalen Hurts",
         "pos": "QB",
         "proTeam": "PHI",
-        "injury": "OUT"
+        "injury": "INJURY_RESERVE"
       },
       {
         "name": "Dallas Goedert",
@@ -1688,12 +1688,6 @@
         "injury": ""
       },
       {
-        "name": "T.J. Hockenson",
-        "pos": "TE",
-        "proTeam": "MIN",
-        "injury": "QUESTIONABLE"
-      },
-      {
         "name": "Germie Bernard",
         "pos": "WR",
         "proTeam": "PIT",
@@ -1709,6 +1703,12 @@
         "name": "Brenton Strange",
         "pos": "TE",
         "proTeam": "JAX",
+        "injury": ""
+      },
+      {
+        "name": "Antonio Williams",
+        "pos": "WR",
+        "proTeam": "WSH",
         "injury": ""
       }
     ],
@@ -1747,7 +1747,7 @@
         "name": "DK Metcalf",
         "pos": "WR",
         "proTeam": "PIT",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Khalil Shakir",
@@ -2100,12 +2100,6 @@
         "injury": ""
       },
       {
-        "name": "Wan'Dale Robinson",
-        "pos": "WR",
-        "proTeam": "TEN",
-        "injury": ""
-      },
-      {
         "name": "Matthew Golden",
         "pos": "WR",
         "proTeam": "GB",
@@ -2127,7 +2121,7 @@
         "name": "Pat Freiermuth",
         "pos": "TE",
         "proTeam": "PIT",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Broncos D/ST",
@@ -2140,6 +2134,12 @@
         "pos": "RB",
         "proTeam": "PHI",
         "injury": ""
+      },
+      {
+        "name": "Christian Kirk",
+        "pos": "WR",
+        "proTeam": "SF",
+        "injury": "INJURY_RESERVE"
       }
     ],
     "10": [
@@ -2195,7 +2195,7 @@
         "name": "Jacory Croskey-Merritt",
         "pos": "RB",
         "proTeam": "WSH",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "Jordan Addison",
@@ -2257,7 +2257,7 @@
         "name": "Terry McLaurin",
         "pos": "WR",
         "proTeam": "WSH",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Christian Watson",
@@ -2281,7 +2281,7 @@
         "name": "Rachaad White",
         "pos": "RB",
         "proTeam": "WSH",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Aaron Jones Sr.",
@@ -2325,7 +2325,7 @@
         "name": "A.J. Brown",
         "pos": "WR",
         "proTeam": "NE",
-        "injury": "INJURY_RESERVE"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Lamar Jackson",
@@ -2720,25 +2720,6 @@
     "week": 6,
     "games": [
       {
-        "date": "2026-10-16T00:15Z",
-        "statusDetail": "Final/OT",
-        "state": "post",
-        "completed": true,
-        "network": "Prime Video",
-        "home": {
-          "name": "Denver Broncos",
-          "abbr": "DEN",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
-          "score": "17"
-        },
-        "away": {
-          "name": "Seattle Seahawks",
-          "abbr": "SEA",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
-          "score": "14"
-        }
-      },
-      {
         "date": "2026-10-18T13:30Z",
         "statusDetail": "10/18 - 9:30 AM EDT",
         "state": "pre",
@@ -2967,6 +2948,25 @@
         }
       },
       {
+        "date": "2026-10-16T00:15Z",
+        "statusDetail": "Final/OT",
+        "state": "post",
+        "completed": true,
+        "network": "Prime Video",
+        "home": {
+          "name": "Denver Broncos",
+          "abbr": "DEN",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+          "score": "17"
+        },
+        "away": {
+          "name": "Seattle Seahawks",
+          "abbr": "SEA",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
+          "score": "14"
+        }
+      },
+      {
         "date": "2026-10-20T00:15Z",
         "statusDetail": "10/19 - 8:15 PM EDT",
         "state": "pre",
@@ -2986,6 +2986,6 @@
         }
       }
     ],
-    "updatedAt": "2026-10-17T08:34:18.686Z"
+    "updatedAt": "2026-10-18T08:34:18.130Z"
   }
 }
