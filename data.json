@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T08:17:41.690360Z",
+  "updatedAt": "2026-10-21T08:34:18.639Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-20T08:34:18.211Z"
+      "capturedAt": "2026-10-21T08:34:18.230Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-20T08:34:18.211Z"
+      "capturedAt": "2026-10-21T08:34:18.230Z"
     },
     {
       "week": 3,
@@ -1225,7 +1225,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-20T08:34:18.211Z"
+      "capturedAt": "2026-10-21T08:34:18.230Z"
     },
     {
       "week": 4,
@@ -1273,7 +1273,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-20T08:34:18.211Z"
+      "capturedAt": "2026-10-21T08:34:18.230Z"
     },
     {
       "week": 5,
@@ -1321,7 +1321,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-20T08:34:18.211Z"
+      "capturedAt": "2026-10-21T08:34:18.230Z"
     },
     {
       "week": 6,
@@ -1369,7 +1369,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-20T08:34:18.211Z"
+      "capturedAt": "2026-10-21T08:34:18.230Z"
     }
   ],
   "live": {
@@ -1413,7 +1413,7 @@
       }
     ],
     "note": "Os confrontos dessa semana ainda não começaram.",
-    "updatedAt": "2026-10-20T08:34:18.211Z"
+    "updatedAt": "2026-10-21T08:34:18.230Z"
   },
   "rosters": {
     "1": [
@@ -1454,12 +1454,6 @@
         "injury": ""
       },
       {
-        "name": "Jalen Hurts",
-        "pos": "QB",
-        "proTeam": "PHI",
-        "injury": "INJURY_RESERVE"
-      },
-      {
         "name": "Dallas Goedert",
         "pos": "TE",
         "proTeam": "PHI",
@@ -1496,9 +1490,15 @@
         "injury": ""
       },
       {
-        "name": "Jameis Winston",
+        "name": "Kyler Murray",
         "pos": "QB",
-        "proTeam": "NYG",
+        "proTeam": "MIN",
+        "injury": ""
+      },
+      {
+        "name": "Vikings D/ST",
+        "pos": "D/ST",
+        "proTeam": "MIN",
         "injury": ""
       }
     ],
@@ -1540,12 +1540,6 @@
         "injury": ""
       },
       {
-        "name": "Jalen Coker",
-        "pos": "WR",
-        "proTeam": "CAR",
-        "injury": ""
-      },
-      {
         "name": "Emanuel Wilson",
         "pos": "RB",
         "proTeam": "SEA",
@@ -1555,12 +1549,6 @@
         "name": "Kirk Cousins",
         "pos": "QB",
         "proTeam": "LV",
-        "injury": ""
-      },
-      {
-        "name": "Giants D/ST",
-        "pos": "D/ST",
-        "proTeam": "NYG",
         "injury": ""
       },
       {
@@ -1586,6 +1574,12 @@
         "pos": "WR",
         "proTeam": "LV",
         "injury": ""
+      },
+      {
+        "name": "Kendre Miller",
+        "pos": "RB",
+        "proTeam": "NO",
+        "injury": ""
       }
     ],
     "3": [
@@ -1605,7 +1599,7 @@
         "name": "Davante Adams",
         "pos": "WR",
         "proTeam": "LAR",
-        "injury": "OUT"
+        "injury": "INJURY_RESERVE"
       },
       {
         "name": "Cam Skattebo",
@@ -1617,12 +1611,6 @@
         "name": "Jaylen Warren",
         "pos": "RB",
         "proTeam": "PIT",
-        "injury": ""
-      },
-      {
-        "name": "Bo Nix",
-        "pos": "QB",
-        "proTeam": "DEN",
         "injury": ""
       },
       {
@@ -1691,19 +1679,7 @@
         "name": "Rashee Rice",
         "pos": "WR",
         "proTeam": "KC",
-        "injury": "OUT"
-      },
-      {
-        "name": "Drake Maye",
-        "pos": "QB",
-        "proTeam": "NE",
-        "injury": ""
-      },
-      {
-        "name": "Rico Dowdle",
-        "pos": "RB",
-        "proTeam": "PIT",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Stefon Diggs",
@@ -1724,12 +1700,6 @@
         "injury": ""
       },
       {
-        "name": "Romeo Doubs",
-        "pos": "WR",
-        "proTeam": "NE",
-        "injury": "INJURY_RESERVE"
-      },
-      {
         "name": "Jared Goff",
         "pos": "QB",
         "proTeam": "DET",
@@ -1742,21 +1712,39 @@
         "injury": ""
       },
       {
-        "name": "Kendre Miller",
-        "pos": "RB",
-        "proTeam": "NO",
-        "injury": ""
-      },
-      {
         "name": "Brenton Strange",
         "pos": "TE",
         "proTeam": "JAX",
         "injury": ""
       },
       {
-        "name": "Ryan Flournoy",
+        "name": "Rachaad White",
+        "pos": "RB",
+        "proTeam": "WSH",
+        "injury": ""
+      },
+      {
+        "name": "Jalen Coker",
         "pos": "WR",
-        "proTeam": "DAL",
+        "proTeam": "CAR",
+        "injury": ""
+      },
+      {
+        "name": "T.J. Hockenson",
+        "pos": "TE",
+        "proTeam": "MIN",
+        "injury": "QUESTIONABLE"
+      },
+      {
+        "name": "Wan'Dale Robinson",
+        "pos": "WR",
+        "proTeam": "TEN",
+        "injury": ""
+      },
+      {
+        "name": "Kaelon Black",
+        "pos": "RB",
+        "proTeam": "SF",
         "injury": ""
       }
     ],
@@ -1863,13 +1851,13 @@
         "name": "Jeremiyah Love",
         "pos": "RB",
         "proTeam": "ARI",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Quinshon Judkins",
         "pos": "RB",
         "proTeam": "CLE",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Tee Higgins",
@@ -1881,7 +1869,7 @@
         "name": "Tyler Warren",
         "pos": "TE",
         "proTeam": "IND",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Jayden Daniels",
@@ -1905,7 +1893,7 @@
         "name": "Adonai Mitchell",
         "pos": "WR",
         "proTeam": "NYJ",
-        "injury": "OUT"
+        "injury": "DOUBTFUL"
       },
       {
         "name": "Rashod Bateman",
@@ -2047,7 +2035,7 @@
         "name": "DJ Moore",
         "pos": "WR",
         "proTeam": "BUF",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "TreVeyon Henderson",
@@ -2059,7 +2047,7 @@
         "name": "Mike Evans",
         "pos": "WR",
         "proTeam": "SF",
-        "injury": "DOUBTFUL"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Caleb Williams",
@@ -2077,7 +2065,7 @@
         "name": "Kyle Monangai",
         "pos": "RB",
         "proTeam": "CHI",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Bryce Young",
@@ -2098,10 +2086,10 @@
         "injury": ""
       },
       {
-        "name": "Najee Harris",
+        "name": "David Montgomery",
         "pos": "RB",
-        "proTeam": "NYG",
-        "injury": ""
+        "proTeam": "HOU",
+        "injury": "QUESTIONABLE"
       }
     ],
     "9": [
@@ -2166,12 +2154,6 @@
         "injury": ""
       },
       {
-        "name": "Pat Freiermuth",
-        "pos": "TE",
-        "proTeam": "PIT",
-        "injury": ""
-      },
-      {
         "name": "Broncos D/ST",
         "pos": "D/ST",
         "proTeam": "DEN",
@@ -2181,6 +2163,18 @@
         "name": "Dameon Pierce",
         "pos": "RB",
         "proTeam": "PHI",
+        "injury": ""
+      },
+      {
+        "name": "Omar Cooper Jr.",
+        "pos": "WR",
+        "proTeam": "NYJ",
+        "injury": ""
+      },
+      {
+        "name": "Carnell Tate",
+        "pos": "WR",
+        "proTeam": "TEN",
         "injury": ""
       }
     ],
@@ -2234,12 +2228,6 @@
         "injury": ""
       },
       {
-        "name": "Jacory Croskey-Merritt",
-        "pos": "RB",
-        "proTeam": "WSH",
-        "injury": "INJURY_RESERVE"
-      },
-      {
         "name": "Jordan Addison",
         "pos": "WR",
         "proTeam": "MIN",
@@ -2258,15 +2246,21 @@
         "injury": ""
       },
       {
-        "name": "Chiefs D/ST",
-        "pos": "D/ST",
+        "name": "Xavier Worthy",
+        "pos": "WR",
         "proTeam": "KC",
         "injury": ""
       },
       {
-        "name": "Xavier Worthy",
-        "pos": "WR",
-        "proTeam": "KC",
+        "name": "Kyle Pitts Sr.",
+        "pos": "TE",
+        "proTeam": "ATL",
+        "injury": ""
+      },
+      {
+        "name": "Browns D/ST",
+        "pos": "D/ST",
+        "proTeam": "CLE",
         "injury": ""
       }
     ],
@@ -2296,12 +2290,6 @@
         "injury": ""
       },
       {
-        "name": "Terry McLaurin",
-        "pos": "WR",
-        "proTeam": "WSH",
-        "injury": "OUT"
-      },
-      {
         "name": "Christian Watson",
         "pos": "WR",
         "proTeam": "GB",
@@ -2317,12 +2305,6 @@
         "name": "Tucker Kraft",
         "pos": "TE",
         "proTeam": "GB",
-        "injury": ""
-      },
-      {
-        "name": "Rachaad White",
-        "pos": "RB",
-        "proTeam": "WSH",
         "injury": ""
       },
       {
@@ -2354,6 +2336,18 @@
         "pos": "D/ST",
         "proTeam": "SF",
         "injury": ""
+      },
+      {
+        "name": "Drake Maye",
+        "pos": "QB",
+        "proTeam": "NE",
+        "injury": ""
+      },
+      {
+        "name": "Rico Dowdle",
+        "pos": "RB",
+        "proTeam": "PIT",
+        "injury": ""
       }
     ],
     "12": [
@@ -2361,7 +2355,7 @@
         "name": "Saquon Barkley",
         "pos": "RB",
         "proTeam": "PHI",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "A.J. Brown",
@@ -2373,7 +2367,7 @@
         "name": "Lamar Jackson",
         "pos": "QB",
         "proTeam": "BAL",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Rams D/ST",
@@ -2409,7 +2403,7 @@
         "name": "Breece Hall",
         "pos": "RB",
         "proTeam": "NYJ",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Devaughn Vele",
@@ -2572,6 +2566,86 @@
           "proTeam": "DEN",
           "fromEspnId": 9,
           "toEspnId": 12
+        }
+      ],
+      "detailKnown": true
+    },
+    {
+      "id": "1d97535e-4c13-4878-8277-c2ec836c125d",
+      "date": "2026-10-21T00:34:05.817Z",
+      "week": 7,
+      "teams": [
+        4,
+        2
+      ],
+      "items": [
+        {
+          "playerId": 4697815,
+          "playerName": "Rachaad White",
+          "pos": "RB",
+          "proTeam": "WSH",
+          "fromEspnId": 2,
+          "toEspnId": 4
+        },
+        {
+          "playerId": 4695883,
+          "playerName": "Jalen Coker",
+          "pos": "WR",
+          "proTeam": "CAR",
+          "fromEspnId": 2,
+          "toEspnId": 4
+        },
+        {
+          "playerId": 4599739,
+          "playerName": "Kendre Miller",
+          "pos": "RB",
+          "proTeam": "NO",
+          "fromEspnId": 4,
+          "toEspnId": 2
+        }
+      ],
+      "detailKnown": true
+    },
+    {
+      "id": "16f07cb7-eaa9-4d98-a371-7a0b35ecbc3d",
+      "date": "2026-10-20T23:28:03.125Z",
+      "week": 7,
+      "teams": [
+        11,
+        4
+      ],
+      "items": [
+        {
+          "playerId": 4431452,
+          "playerName": "Drake Maye",
+          "pos": "QB",
+          "proTeam": "NE",
+          "fromEspnId": 4,
+          "toEspnId": 11
+        },
+        {
+          "playerId": 4038815,
+          "playerName": "Rico Dowdle",
+          "pos": "RB",
+          "proTeam": "PIT",
+          "fromEspnId": 4,
+          "toEspnId": 11
+        },
+        {
+          "playerId": 4697815,
+          "playerName": "Rachaad White",
+          "pos": "RB",
+          "proTeam": "WSH",
+          "fromEspnId": 11,
+          "toEspnId": 4
+        },
+        {
+          "playerId": 4695883,
+          "playerName": "Jalen Coker",
+          "pos": "WR",
+          "proTeam": "CAR",
+          "fromEspnId": 11,
+          "toEspnId": 4
         }
       ],
       "detailKnown": true
@@ -3028,6 +3102,6 @@
         }
       }
     ],
-    "updatedAt": "2026-10-20T08:34:18.251Z"
+    "updatedAt": "2026-10-21T08:34:18.294Z"
   }
 }
