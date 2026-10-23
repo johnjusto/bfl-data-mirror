@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T08:17:51.622627Z",
+  "updatedAt": "2026-10-23T08:34:18.455Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-22T08:34:18.109Z"
+      "capturedAt": "2026-10-23T08:34:18.156Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-22T08:34:18.109Z"
+      "capturedAt": "2026-10-23T08:34:18.156Z"
     },
     {
       "week": 3,
@@ -1225,7 +1225,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-22T08:34:18.109Z"
+      "capturedAt": "2026-10-23T08:34:18.156Z"
     },
     {
       "week": 4,
@@ -1273,7 +1273,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-22T08:34:18.109Z"
+      "capturedAt": "2026-10-23T08:34:18.156Z"
     },
     {
       "week": 5,
@@ -1321,7 +1321,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-10-22T08:34:18.109Z"
+      "capturedAt": "2026-10-23T08:34:18.156Z"
     },
     {
       "week": 6,
@@ -1369,7 +1369,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-10-22T08:34:18.109Z"
+      "capturedAt": "2026-10-23T08:34:18.156Z"
     }
   ],
   "live": {
@@ -1379,30 +1379,30 @@
         "home": 7,
         "away": 8,
         "homeScore": 0,
-        "awayScore": 0
+        "awayScore": 29.22
       },
       {
         "home": 12,
         "away": 11,
-        "homeScore": 0,
-        "awayScore": 0
+        "homeScore": 6.3,
+        "awayScore": 27.44
       },
       {
         "home": 3,
         "away": 4,
-        "homeScore": 0,
+        "homeScore": 10.6,
         "awayScore": 0
       },
       {
         "home": 6,
         "away": 1,
         "homeScore": 0,
-        "awayScore": 0
+        "awayScore": 55.1
       },
       {
         "home": 5,
         "away": 2,
-        "homeScore": 0,
+        "homeScore": 20,
         "awayScore": 0
       },
       {
@@ -1412,8 +1412,8 @@
         "awayScore": 0
       }
     ],
-    "note": "Os confrontos dessa semana ainda não começaram.",
-    "updatedAt": "2026-10-22T08:34:18.109Z"
+    "note": "5 de 6 confrontos já têm pontuação parcial; os demais ainda não começaram.",
+    "updatedAt": "2026-10-23T08:34:18.156Z"
   },
   "rosters": {
     "1": [
@@ -1457,7 +1457,7 @@
         "name": "Dallas Goedert",
         "pos": "TE",
         "proTeam": "PHI",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Chuba Hubbard",
@@ -1513,7 +1513,7 @@
         "name": "Brock Bowers",
         "pos": "TE",
         "proTeam": "LV",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Garrett Wilson",
@@ -1537,7 +1537,7 @@
         "name": "Jordan Love",
         "pos": "QB",
         "proTeam": "GB",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Kendrick Bourne",
@@ -1813,7 +1813,7 @@
         "name": "Zach Charbonnet",
         "pos": "RB",
         "proTeam": "SEA",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Brock Purdy",
@@ -1851,7 +1851,7 @@
         "name": "Puka Nacua",
         "pos": "WR",
         "proTeam": "LAR",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Ashton Jeanty",
@@ -1911,7 +1911,7 @@
         "name": "Rashod Bateman",
         "pos": "WR",
         "proTeam": "BAL",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Keenan Allen",
@@ -2092,16 +2092,16 @@
         "injury": ""
       },
       {
-        "name": "Patriots D/ST",
-        "pos": "D/ST",
-        "proTeam": "NE",
-        "injury": ""
-      },
-      {
         "name": "David Montgomery",
         "pos": "RB",
         "proTeam": "HOU",
-        "injury": "QUESTIONABLE"
+        "injury": "DOUBTFUL"
+      },
+      {
+        "name": "DeMario Douglas",
+        "pos": "WR",
+        "proTeam": "NE",
+        "injury": ""
       }
     ],
     "9": [
@@ -2201,7 +2201,7 @@
         "name": "Justin Jefferson",
         "pos": "WR",
         "proTeam": "MIN",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Travis Etienne Jr.",
@@ -2213,7 +2213,7 @@
         "name": "George Pickens",
         "pos": "WR",
         "proTeam": "DAL",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Jameson Williams",
@@ -2246,18 +2246,6 @@
         "injury": ""
       },
       {
-        "name": "Juwan Johnson",
-        "pos": "TE",
-        "proTeam": "NO",
-        "injury": ""
-      },
-      {
-        "name": "Braelon Allen",
-        "pos": "RB",
-        "proTeam": "NYJ",
-        "injury": ""
-      },
-      {
         "name": "Xavier Worthy",
         "pos": "WR",
         "proTeam": "KC",
@@ -2274,6 +2262,18 @@
         "pos": "D/ST",
         "proTeam": "CLE",
         "injury": ""
+      },
+      {
+        "name": "Bo Nix",
+        "pos": "QB",
+        "proTeam": "DEN",
+        "injury": ""
+      },
+      {
+        "name": "Jadarian Price",
+        "pos": "RB",
+        "proTeam": "SEA",
+        "injury": "INJURY_RESERVE"
       }
     ],
     "11": [
@@ -2299,7 +2299,7 @@
         "name": "DeVonta Smith",
         "pos": "WR",
         "proTeam": "PHI",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Christian Watson",
@@ -2388,12 +2388,6 @@
         "injury": ""
       },
       {
-        "name": "Travis Kelce",
-        "pos": "TE",
-        "proTeam": "KC",
-        "injury": "QUESTIONABLE"
-      },
-      {
         "name": "Joe Burrow",
         "pos": "QB",
         "proTeam": "CIN",
@@ -2445,6 +2439,12 @@
         "name": "Dontayvion Wicks",
         "pos": "WR",
         "proTeam": "PHI",
+        "injury": "QUESTIONABLE"
+      },
+      {
+        "name": "Pat Freiermuth",
+        "pos": "TE",
+        "proTeam": "PIT",
         "injury": ""
       }
     ]
@@ -2849,21 +2849,21 @@
     "games": [
       {
         "date": "2026-10-23T00:15Z",
-        "statusDetail": "10/22 - 8:15 PM EDT",
-        "state": "pre",
-        "completed": false,
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
         "network": "Prime Video",
         "home": {
           "name": "Chicago Bears",
           "abbr": "CHI",
           "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
-          "score": "0"
+          "score": "30"
         },
         "away": {
           "name": "New England Patriots",
           "abbr": "NE",
           "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
-          "score": "0"
+          "score": "24"
         }
       },
       {
@@ -3114,6 +3114,6 @@
         }
       }
     ],
-    "updatedAt": "2026-10-22T08:34:18.138Z"
+    "updatedAt": "2026-10-23T08:34:18.198Z"
   }
 }
