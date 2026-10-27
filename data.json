@@ -2705,24 +2705,19 @@
       "interesse": [],
       "negociaveis": [
         {
-          "name": "Michael Pittman Jr.",
-          "pos": "WR",
-          "proTeam": "PIT"
-        },
-        {
-          "name": "Darren Waller",
-          "pos": "TE",
-          "proTeam": "CAR"
-        },
-        {
-          "name": "George Holani",
+          "name": "J.K. Dobbins",
           "pos": "RB",
-          "proTeam": "SEA"
+          "proTeam": "DEN"
+        },
+        {
+          "name": "Christian Kirk",
+          "pos": "WR",
+          "proTeam": "SF"
         }
       ],
       "nota": "RB2, WR3",
       "outros": "",
-      "updatedAt": "2026-10-06T19:17:21.974Z"
+      "updatedAt": "2026-10-27T03:56:52.232Z"
     },
     "8": {
       "espnId": 8,
