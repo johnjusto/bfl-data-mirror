@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T08:20:38.597860Z",
+  "updatedAt": "2026-11-09T08:34:18.672Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-08T08:34:18.173Z"
+      "capturedAt": "2026-11-09T08:34:18.339Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-08T08:34:18.173Z"
+      "capturedAt": "2026-11-09T08:34:18.339Z"
     },
     {
       "week": 3,
@@ -1225,7 +1225,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-08T08:34:18.173Z"
+      "capturedAt": "2026-11-09T08:34:18.339Z"
     },
     {
       "week": 4,
@@ -1273,7 +1273,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-08T08:34:18.173Z"
+      "capturedAt": "2026-11-09T08:34:18.339Z"
     },
     {
       "week": 5,
@@ -1321,7 +1321,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-08T08:34:18.173Z"
+      "capturedAt": "2026-11-09T08:34:18.339Z"
     },
     {
       "week": 6,
@@ -1369,7 +1369,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-08T08:34:18.173Z"
+      "capturedAt": "2026-11-09T08:34:18.339Z"
     },
     {
       "week": 7,
@@ -1417,7 +1417,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-08T08:34:18.173Z"
+      "capturedAt": "2026-11-09T08:34:18.339Z"
     },
     {
       "week": 8,
@@ -1465,7 +1465,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-08T08:34:18.173Z"
+      "capturedAt": "2026-11-09T08:34:18.339Z"
     }
   ],
   "live": {
@@ -1474,42 +1474,42 @@
       {
         "home": 3,
         "away": 8,
-        "homeScore": 27.26,
-        "awayScore": 0
+        "homeScore": 86.84,
+        "awayScore": 77.61
       },
       {
         "home": 12,
         "away": 1,
-        "homeScore": 0,
-        "awayScore": 13.1
+        "homeScore": 75.24,
+        "awayScore": 161.08
       },
       {
         "home": 4,
         "away": 2,
-        "homeScore": 3.2,
-        "awayScore": 8.9
+        "homeScore": 85.46,
+        "awayScore": 99.43
       },
       {
         "home": 11,
         "away": 7,
-        "homeScore": 0,
-        "awayScore": 5.58
+        "homeScore": 104.75,
+        "awayScore": 92.15
       },
       {
         "home": 10,
         "away": 5,
-        "homeScore": 0,
-        "awayScore": 0
+        "homeScore": 74.55,
+        "awayScore": 82.62
       },
       {
         "home": 9,
         "away": 6,
-        "homeScore": 13.58,
-        "awayScore": 0
+        "homeScore": 94.87,
+        "awayScore": 90.43
       }
     ],
-    "note": "5 de 6 confrontos já têm pontuação parcial; os demais ainda não começaram.",
-    "updatedAt": "2026-11-08T08:34:18.174Z"
+    "note": "Todos os confrontos dessa semana já têm pontuação parcial.",
+    "updatedAt": "2026-11-09T08:34:18.339Z"
   },
   "rosters": {
     "1": [
@@ -1535,7 +1535,7 @@
         "name": "Ladd McConkey",
         "pos": "WR",
         "proTeam": "LAC",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "D'Andre Swift",
@@ -1547,18 +1547,12 @@
         "name": "Luther Burden III",
         "pos": "WR",
         "proTeam": "CHI",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Chuba Hubbard",
         "pos": "RB",
         "proTeam": "CAR",
-        "injury": ""
-      },
-      {
-        "name": "Michael Wilson",
-        "pos": "WR",
-        "proTeam": "ARI",
         "injury": ""
       },
       {
@@ -1580,12 +1574,6 @@
         "injury": ""
       },
       {
-        "name": "Bo Nix",
-        "pos": "QB",
-        "proTeam": "DEN",
-        "injury": ""
-      },
-      {
         "name": "Texans D/ST",
         "pos": "D/ST",
         "proTeam": "HOU",
@@ -1595,7 +1583,19 @@
         "name": "Jordyn Tyson",
         "pos": "WR",
         "proTeam": "NO",
-        "injury": "QUESTIONABLE"
+        "injury": ""
+      },
+      {
+        "name": "Brock Purdy",
+        "pos": "QB",
+        "proTeam": "SF",
+        "injury": ""
+      },
+      {
+        "name": "Emmett Johnson",
+        "pos": "RB",
+        "proTeam": "KC",
+        "injury": ""
       }
     ],
     "2": [
@@ -1603,7 +1603,7 @@
         "name": "Amon-Ra St. Brown",
         "pos": "WR",
         "proTeam": "DET",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Brock Bowers",
@@ -1701,7 +1701,7 @@
         "name": "Cam Skattebo",
         "pos": "RB",
         "proTeam": "NYG",
-        "injury": "DOUBTFUL"
+        "injury": "OUT"
       },
       {
         "name": "Jaylen Warren",
@@ -1737,7 +1737,7 @@
         "name": "Hunter Henry",
         "pos": "TE",
         "proTeam": "NE",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Ryan Flournoy",
@@ -1885,7 +1885,7 @@
         "name": "Rhamondre Stevenson",
         "pos": "RB",
         "proTeam": "NE",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "DK Metcalf",
@@ -1903,12 +1903,6 @@
         "name": "Zach Charbonnet",
         "pos": "RB",
         "proTeam": "SEA",
-        "injury": ""
-      },
-      {
-        "name": "Brock Purdy",
-        "pos": "QB",
-        "proTeam": "SF",
         "injury": ""
       },
       {
@@ -1940,6 +1934,12 @@
         "pos": "RB",
         "proTeam": "LAC",
         "injury": ""
+      },
+      {
+        "name": "Michael Wilson",
+        "pos": "WR",
+        "proTeam": "ARI",
+        "injury": ""
       }
     ],
     "6": [
@@ -1947,7 +1947,7 @@
         "name": "Puka Nacua",
         "pos": "WR",
         "proTeam": "LAR",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Ashton Jeanty",
@@ -1989,7 +1989,7 @@
         "name": "Josh Jacobs",
         "pos": "RB",
         "proTeam": "GB",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Tyler Shough",
@@ -2045,7 +2045,7 @@
         "name": "Emeka Egbuka",
         "pos": "WR",
         "proTeam": "TB",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Bucky Irving",
@@ -2069,7 +2069,7 @@
         "name": "Patrick Mahomes",
         "pos": "QB",
         "proTeam": "KC",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Seahawks D/ST",
@@ -2137,7 +2137,7 @@
         "name": "Jaylen Waddle",
         "pos": "WR",
         "proTeam": "DEN",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "DJ Moore",
@@ -2161,7 +2161,7 @@
         "name": "Kyle Monangai",
         "pos": "RB",
         "proTeam": "CHI",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "Bryce Young",
@@ -2309,7 +2309,7 @@
         "name": "George Pickens",
         "pos": "WR",
         "proTeam": "DAL",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "Jameson Williams",
@@ -2345,7 +2345,7 @@
         "name": "Xavier Worthy",
         "pos": "WR",
         "proTeam": "KC",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Kyle Pitts Sr.",
@@ -2757,6 +2757,34 @@
         }
       ],
       "detailKnown": true
+    },
+    {
+      "id": "7eda8ae2-f75d-4096-a4fd-abc7d8e298a9",
+      "date": "2026-11-08T14:23:08.638Z",
+      "week": 9,
+      "teams": [
+        1,
+        5
+      ],
+      "items": [
+        {
+          "playerId": 4361741,
+          "playerName": "Brock Purdy",
+          "pos": "QB",
+          "proTeam": "SF",
+          "fromEspnId": 5,
+          "toEspnId": 1
+        },
+        {
+          "playerId": 4360761,
+          "playerName": "Michael Wilson",
+          "pos": "WR",
+          "proTeam": "ARI",
+          "fromEspnId": 1,
+          "toEspnId": 5
+        }
+      ],
+      "detailKnown": true
     }
   ],
   "tradeBlock": {
@@ -2939,249 +2967,21 @@
     "week": 9,
     "games": [
       {
-        "date": "2026-11-08T14:30Z",
-        "statusDetail": "11/8 - 9:30 AM EST",
+        "date": "2026-11-10T01:15Z",
+        "statusDetail": "11/9 - 8:15 PM EST",
         "state": "pre",
         "completed": false,
-        "network": "NFL Net",
+        "network": "ESPN/ABC",
         "home": {
-          "name": "Atlanta Falcons",
-          "abbr": "ATL",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+          "name": "Minnesota Vikings",
+          "abbr": "MIN",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
           "score": "0"
         },
         "away": {
-          "name": "Cincinnati Bengals",
-          "abbr": "CIN",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-08T18:00Z",
-        "statusDetail": "11/8 - 1:00 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "Fox",
-        "home": {
-          "name": "Indianapolis Colts",
-          "abbr": "IND",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "Dallas Cowboys",
-          "abbr": "DAL",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-08T18:00Z",
-        "statusDetail": "11/8 - 1:00 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "CBS",
-        "home": {
-          "name": "Kansas City Chiefs",
-          "abbr": "KC",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "New York Jets",
-          "abbr": "NYJ",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-08T18:00Z",
-        "statusDetail": "11/8 - 1:00 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "Fox",
-        "home": {
-          "name": "Miami Dolphins",
-          "abbr": "MIA",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "Detroit Lions",
-          "abbr": "DET",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-08T18:00Z",
-        "statusDetail": "11/8 - 1:00 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "CBS",
-        "home": {
-          "name": "New Orleans Saints",
-          "abbr": "NO",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "Cleveland Browns",
-          "abbr": "CLE",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-08T18:00Z",
-        "statusDetail": "11/8 - 1:00 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "Fox",
-        "home": {
-          "name": "Philadelphia Eagles",
-          "abbr": "PHI",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "New York Giants",
-          "abbr": "NYG",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-08T18:00Z",
-        "statusDetail": "11/8 - 1:00 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "Fox",
-        "home": {
-          "name": "Washington Commanders",
-          "abbr": "WSH",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "Los Angeles Rams",
-          "abbr": "LAR",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-08T18:00Z",
-        "statusDetail": "11/8 - 1:00 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "CBS",
-        "home": {
-          "name": "Carolina Panthers",
-          "abbr": "CAR",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "Denver Broncos",
-          "abbr": "DEN",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-08T21:05Z",
-        "statusDetail": "11/8 - 4:05 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "CBS",
-        "home": {
-          "name": "Los Angeles Chargers",
-          "abbr": "LAC",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "Houston Texans",
-          "abbr": "HOU",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-08T21:25Z",
-        "statusDetail": "11/8 - 4:25 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "Fox",
-        "home": {
-          "name": "New England Patriots",
-          "abbr": "NE",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "Green Bay Packers",
-          "abbr": "GB",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-08T21:25Z",
-        "statusDetail": "11/8 - 4:25 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "Fox",
-        "home": {
-          "name": "San Francisco 49ers",
-          "abbr": "SF",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "Las Vegas Raiders",
-          "abbr": "LV",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-08T21:25Z",
-        "statusDetail": "11/8 - 4:25 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "Fox",
-        "home": {
-          "name": "Seattle Seahawks",
-          "abbr": "SEA",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "Arizona Cardinals",
-          "abbr": "ARI",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
-          "score": "0"
-        }
-      },
-      {
-        "date": "2026-11-09T01:20Z",
-        "statusDetail": "11/8 - 8:20 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "NBC",
-        "home": {
-          "name": "Chicago Bears",
-          "abbr": "CHI",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "Tampa Bay Buccaneers",
-          "abbr": "TB",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
+          "name": "Buffalo Bills",
+          "abbr": "BUF",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
           "score": "0"
         }
       },
@@ -3205,25 +3005,253 @@
         }
       },
       {
-        "date": "2026-11-10T01:15Z",
-        "statusDetail": "11/9 - 8:15 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "ESPN/ABC",
+        "date": "2026-11-08T14:30Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "NFL Net",
         "home": {
-          "name": "Minnesota Vikings",
-          "abbr": "MIN",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png",
-          "score": "0"
+          "name": "Atlanta Falcons",
+          "abbr": "ATL",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png",
+          "score": "17"
         },
         "away": {
-          "name": "Buffalo Bills",
-          "abbr": "BUF",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png",
-          "score": "0"
+          "name": "Cincinnati Bengals",
+          "abbr": "CIN",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png",
+          "score": "34"
+        }
+      },
+      {
+        "date": "2026-11-08T18:00Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "Fox",
+        "home": {
+          "name": "Indianapolis Colts",
+          "abbr": "IND",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
+          "score": "23"
+        },
+        "away": {
+          "name": "Dallas Cowboys",
+          "abbr": "DAL",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/dal.png",
+          "score": "27"
+        }
+      },
+      {
+        "date": "2026-11-08T18:00Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "CBS",
+        "home": {
+          "name": "Kansas City Chiefs",
+          "abbr": "KC",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
+          "score": "35"
+        },
+        "away": {
+          "name": "New York Jets",
+          "abbr": "NYJ",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyj.png",
+          "score": "12"
+        }
+      },
+      {
+        "date": "2026-11-08T18:00Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "CBS",
+        "home": {
+          "name": "Miami Dolphins",
+          "abbr": "MIA",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/mia.png",
+          "score": "9"
+        },
+        "away": {
+          "name": "Detroit Lions",
+          "abbr": "DET",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/det.png",
+          "score": "19"
+        }
+      },
+      {
+        "date": "2026-11-08T18:00Z",
+        "statusDetail": "Final/OT",
+        "state": "post",
+        "completed": true,
+        "network": "CBS",
+        "home": {
+          "name": "New Orleans Saints",
+          "abbr": "NO",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/no.png",
+          "score": "23"
+        },
+        "away": {
+          "name": "Cleveland Browns",
+          "abbr": "CLE",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cle.png",
+          "score": "22"
+        }
+      },
+      {
+        "date": "2026-11-08T18:00Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "Fox",
+        "home": {
+          "name": "Philadelphia Eagles",
+          "abbr": "PHI",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png",
+          "score": "11"
+        },
+        "away": {
+          "name": "New York Giants",
+          "abbr": "NYG",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+          "score": "19"
+        }
+      },
+      {
+        "date": "2026-11-08T18:00Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "Fox",
+        "home": {
+          "name": "Washington Commanders",
+          "abbr": "WSH",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+          "score": "13"
+        },
+        "away": {
+          "name": "Los Angeles Rams",
+          "abbr": "LAR",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+          "score": "20"
+        }
+      },
+      {
+        "date": "2026-11-08T18:00Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "CBS",
+        "home": {
+          "name": "Carolina Panthers",
+          "abbr": "CAR",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/car.png",
+          "score": "21"
+        },
+        "away": {
+          "name": "Denver Broncos",
+          "abbr": "DEN",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png",
+          "score": "26"
+        }
+      },
+      {
+        "date": "2026-11-08T21:05Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "CBS",
+        "home": {
+          "name": "Los Angeles Chargers",
+          "abbr": "LAC",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lac.png",
+          "score": "22"
+        },
+        "away": {
+          "name": "Houston Texans",
+          "abbr": "HOU",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
+          "score": "44"
+        }
+      },
+      {
+        "date": "2026-11-08T21:25Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "Fox",
+        "home": {
+          "name": "New England Patriots",
+          "abbr": "NE",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png",
+          "score": "27"
+        },
+        "away": {
+          "name": "Green Bay Packers",
+          "abbr": "GB",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+          "score": "45"
+        }
+      },
+      {
+        "date": "2026-11-08T21:25Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "Fox",
+        "home": {
+          "name": "San Francisco 49ers",
+          "abbr": "SF",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png",
+          "score": "38"
+        },
+        "away": {
+          "name": "Las Vegas Raiders",
+          "abbr": "LV",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png",
+          "score": "17"
+        }
+      },
+      {
+        "date": "2026-11-08T21:25Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "Fox",
+        "home": {
+          "name": "Seattle Seahawks",
+          "abbr": "SEA",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sea.png",
+          "score": "17"
+        },
+        "away": {
+          "name": "Arizona Cardinals",
+          "abbr": "ARI",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ari.png",
+          "score": "3"
+        }
+      },
+      {
+        "date": "2026-11-09T01:20Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "NBC",
+        "home": {
+          "name": "Chicago Bears",
+          "abbr": "CHI",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png",
+          "score": "27"
+        },
+        "away": {
+          "name": "Tampa Bay Buccaneers",
+          "abbr": "TB",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/tb.png",
+          "score": "24"
         }
       }
     ],
-    "updatedAt": "2026-11-08T08:34:18.212Z"
+    "updatedAt": "2026-11-09T08:34:18.377Z"
   }
 }
