@@ -2856,49 +2856,6 @@
       "nota": "RB2, WR3",
       "outros": "",
       "updatedAt": "2026-10-27T03:56:52.232Z"
-    },
-    "8": {
-      "espnId": 8,
-      "teamName": "Djow's Team",
-      "managerName": "Thiago",
-      "interesse": [
-        "RB"
-      ],
-      "negociaveis": [
-        {
-          "name": "DJ Moore",
-          "pos": "WR",
-          "proTeam": "BUF"
-        },
-        {
-          "name": "TreVeyon Henderson",
-          "pos": "RB",
-          "proTeam": "NE"
-        },
-        {
-          "name": "Mike Evans",
-          "pos": "WR",
-          "proTeam": "SF"
-        },
-        {
-          "name": "RJ Harvey",
-          "pos": "RB",
-          "proTeam": "DEN"
-        },
-        {
-          "name": "Kyle Monangai",
-          "pos": "RB",
-          "proTeam": "CHI"
-        },
-        {
-          "name": "Dontayvion Wicks",
-          "pos": "WR",
-          "proTeam": "PHI"
-        }
-      ],
-      "nota": "RB1 e RB2",
-      "outros": "",
-      "updatedAt": "2026-10-09T16:12:57.071Z"
     }
   },
   "nflGames": {
