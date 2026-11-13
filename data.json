@@ -2864,11 +2864,6 @@
       ],
       "negociaveis": [
         {
-          "name": "Rashee Rice",
-          "pos": "WR",
-          "proTeam": "KC"
-        },
-        {
           "name": "Stefon Diggs",
           "pos": "WR",
           "proTeam": "WSH"
@@ -2894,11 +2889,6 @@
           "proTeam": "WSH"
         },
         {
-          "name": "Jalen Coker",
-          "pos": "WR",
-          "proTeam": "CAR"
-        },
-        {
           "name": "Seth McGowan",
           "pos": "RB",
           "proTeam": "IND"
@@ -2911,7 +2901,7 @@
       ],
       "nota": "Busco WR1 e RB1. Aceito dar 2 jogadores e receber 1.",
       "outros": "Kyren (RB) troco por 2 jogadores: RB1 + WR1 nos respectivos times.",
-      "updatedAt": "2026-11-13T20:56:50.416Z"
+      "updatedAt": "2026-11-13T20:57:36.998Z"
     }
   },
   "nflGames": {
