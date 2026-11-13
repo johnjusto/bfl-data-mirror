@@ -2853,27 +2853,6 @@
       "nota": "WR2",
       "outros": "",
       "updatedAt": "2026-11-13T20:17:50.542Z"
-    },
-    "4": {
-      "espnId": 4,
-      "teamName": "Tampa Bay Badidas",
-      "managerName": "Marcos",
-      "interesse": [],
-      "negociaveis": [
-        {
-          "name": "J.K. Dobbins",
-          "pos": "RB",
-          "proTeam": "DEN"
-        },
-        {
-          "name": "Christian Kirk",
-          "pos": "WR",
-          "proTeam": "SF"
-        }
-      ],
-      "nota": "RB2, WR3",
-      "outros": "",
-      "updatedAt": "2026-10-27T03:56:52.232Z"
     }
   },
   "nflGames": {
