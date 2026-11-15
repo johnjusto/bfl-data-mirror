@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T08:17:10.501Z",
+  "updatedAt": "2026-11-15T08:34:18.570Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-14T08:34:18.296Z"
+      "capturedAt": "2026-11-15T08:34:18.225Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-14T08:34:18.296Z"
+      "capturedAt": "2026-11-15T08:34:18.225Z"
     },
     {
       "week": 3,
@@ -1225,7 +1225,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-14T08:34:18.296Z"
+      "capturedAt": "2026-11-15T08:34:18.225Z"
     },
     {
       "week": 4,
@@ -1273,7 +1273,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-14T08:34:18.296Z"
+      "capturedAt": "2026-11-15T08:34:18.225Z"
     },
     {
       "week": 5,
@@ -1321,7 +1321,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-14T08:34:18.296Z"
+      "capturedAt": "2026-11-15T08:34:18.225Z"
     },
     {
       "week": 6,
@@ -1369,7 +1369,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-14T08:34:18.296Z"
+      "capturedAt": "2026-11-15T08:34:18.225Z"
     },
     {
       "week": 7,
@@ -1417,7 +1417,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-14T08:34:18.296Z"
+      "capturedAt": "2026-11-15T08:34:18.225Z"
     },
     {
       "week": 8,
@@ -1465,7 +1465,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-14T08:34:18.296Z"
+      "capturedAt": "2026-11-15T08:34:18.225Z"
     },
     {
       "week": 9,
@@ -1513,7 +1513,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-14T08:34:18.296Z"
+      "capturedAt": "2026-11-15T08:34:18.225Z"
     }
   ],
   "live": {
@@ -1557,7 +1557,7 @@
       }
     ],
     "note": "4 de 6 confrontos já têm pontuação parcial; os demais ainda não começaram.",
-    "updatedAt": "2026-11-14T08:34:18.296Z"
+    "updatedAt": "2026-11-15T08:34:18.226Z"
   },
   "rosters": {
     "1": [
@@ -1571,7 +1571,7 @@
         "name": "Kenneth Walker III",
         "pos": "RB",
         "proTeam": "KC",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "Chris Olave",
@@ -1844,12 +1844,6 @@
         "injury": ""
       },
       {
-        "name": "J.K. Dobbins",
-        "pos": "RB",
-        "proTeam": "DEN",
-        "injury": ""
-      },
-      {
         "name": "Jared Goff",
         "pos": "QB",
         "proTeam": "DET",
@@ -1859,12 +1853,6 @@
         "name": "Germie Bernard",
         "pos": "WR",
         "proTeam": "PIT",
-        "injury": ""
-      },
-      {
-        "name": "Brenton Strange",
-        "pos": "TE",
-        "proTeam": "JAX",
         "injury": ""
       },
       {
@@ -1902,6 +1890,18 @@
         "pos": "D/ST",
         "proTeam": "GB",
         "injury": ""
+      },
+      {
+        "name": "Travis Kelce",
+        "pos": "TE",
+        "proTeam": "KC",
+        "injury": ""
+      },
+      {
+        "name": "Michael Pittman Jr.",
+        "pos": "WR",
+        "proTeam": "PIT",
+        "injury": "INJURY_RESERVE"
       }
     ],
     "5": [
@@ -1954,12 +1954,6 @@
         "injury": ""
       },
       {
-        "name": "Travis Kelce",
-        "pos": "TE",
-        "proTeam": "KC",
-        "injury": ""
-      },
-      {
         "name": "Chiefs D/ST",
         "pos": "D/ST",
         "proTeam": "KC",
@@ -1984,10 +1978,16 @@
         "injury": ""
       },
       {
-        "name": "T.J. Hockenson",
+        "name": "J.K. Dobbins",
+        "pos": "RB",
+        "proTeam": "DEN",
+        "injury": ""
+      },
+      {
+        "name": "Brenton Strange",
         "pos": "TE",
-        "proTeam": "MIN",
-        "injury": "OUT"
+        "proTeam": "JAX",
+        "injury": ""
       }
     ],
     "6": [
@@ -2221,7 +2221,7 @@
         "name": "David Montgomery",
         "pos": "RB",
         "proTeam": "HOU",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "Jadarian Price",
@@ -2351,7 +2351,7 @@
         "name": "Travis Etienne Jr.",
         "pos": "RB",
         "proTeam": "NO",
-        "injury": "INJURY_RESERVE"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "George Pickens",
@@ -2390,12 +2390,6 @@
         "injury": "QUESTIONABLE"
       },
       {
-        "name": "Xavier Worthy",
-        "pos": "WR",
-        "proTeam": "KC",
-        "injury": ""
-      },
-      {
         "name": "Kyle Pitts Sr.",
         "pos": "TE",
         "proTeam": "ATL",
@@ -2417,6 +2411,12 @@
         "name": "Juwan Johnson",
         "pos": "TE",
         "proTeam": "NO",
+        "injury": ""
+      },
+      {
+        "name": "Broncos D/ST",
+        "pos": "D/ST",
+        "proTeam": "DEN",
         "injury": ""
       }
     ],
@@ -2833,6 +2833,42 @@
         }
       ],
       "detailKnown": true
+    },
+    {
+      "id": "22e2be00-bbb1-45ca-88b0-4666a72f0b26",
+      "date": "2026-11-15T01:19:32.842Z",
+      "week": 10,
+      "teams": [
+        4,
+        5
+      ],
+      "items": [
+        {
+          "playerId": 15847,
+          "playerName": "Travis Kelce",
+          "pos": "TE",
+          "proTeam": "KC",
+          "fromEspnId": 5,
+          "toEspnId": 4
+        },
+        {
+          "playerId": 4241985,
+          "playerName": "J.K. Dobbins",
+          "pos": "RB",
+          "proTeam": "DEN",
+          "fromEspnId": 4,
+          "toEspnId": 5
+        },
+        {
+          "playerId": 4430539,
+          "playerName": "Brenton Strange",
+          "pos": "TE",
+          "proTeam": "JAX",
+          "fromEspnId": 4,
+          "toEspnId": 5
+        }
+      ],
+      "detailKnown": true
     }
   ],
   "tradeBlock": {
@@ -2907,25 +2943,6 @@
   "nflGames": {
     "week": 10,
     "games": [
-      {
-        "date": "2026-11-13T01:15Z",
-        "statusDetail": "Final",
-        "state": "post",
-        "completed": true,
-        "network": "Prime Video",
-        "home": {
-          "name": "New York Giants",
-          "abbr": "NYG",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
-          "score": "21"
-        },
-        "away": {
-          "name": "Washington Commanders",
-          "abbr": "WSH",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
-          "score": "24"
-        }
-      },
       {
         "date": "2026-11-15T14:30Z",
         "statusDetail": "11/15 - 9:30 AM EST",
@@ -3155,6 +3172,25 @@
         }
       },
       {
+        "date": "2026-11-13T01:15Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "Prime Video",
+        "home": {
+          "name": "New York Giants",
+          "abbr": "NYG",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png",
+          "score": "21"
+        },
+        "away": {
+          "name": "Washington Commanders",
+          "abbr": "WSH",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/wsh.png",
+          "score": "24"
+        }
+      },
+      {
         "date": "2026-11-17T01:15Z",
         "statusDetail": "11/16 - 8:15 PM EST",
         "state": "pre",
@@ -3174,6 +3210,6 @@
         }
       }
     ],
-    "updatedAt": "2026-11-14T08:34:18.349Z"
+    "updatedAt": "2026-11-15T08:34:18.279Z"
   }
 }
