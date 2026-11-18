@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T08:17:12.554365Z",
+  "updatedAt": "2026-11-18T08:34:19.026Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-17T08:34:18.123Z"
+      "capturedAt": "2026-11-18T08:34:18.424Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-17T08:34:18.123Z"
+      "capturedAt": "2026-11-18T08:34:18.424Z"
     },
     {
       "week": 3,
@@ -1225,7 +1225,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-17T08:34:18.123Z"
+      "capturedAt": "2026-11-18T08:34:18.424Z"
     },
     {
       "week": 4,
@@ -1273,7 +1273,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-17T08:34:18.123Z"
+      "capturedAt": "2026-11-18T08:34:18.424Z"
     },
     {
       "week": 5,
@@ -1321,7 +1321,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-17T08:34:18.123Z"
+      "capturedAt": "2026-11-18T08:34:18.424Z"
     },
     {
       "week": 6,
@@ -1369,7 +1369,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-17T08:34:18.123Z"
+      "capturedAt": "2026-11-18T08:34:18.424Z"
     },
     {
       "week": 7,
@@ -1417,7 +1417,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-17T08:34:18.123Z"
+      "capturedAt": "2026-11-18T08:34:18.424Z"
     },
     {
       "week": 8,
@@ -1465,7 +1465,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-17T08:34:18.123Z"
+      "capturedAt": "2026-11-18T08:34:18.424Z"
     },
     {
       "week": 9,
@@ -1513,7 +1513,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-17T08:34:18.123Z"
+      "capturedAt": "2026-11-18T08:34:18.424Z"
     },
     {
       "week": 10,
@@ -1561,7 +1561,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-17T08:34:18.123Z"
+      "capturedAt": "2026-11-18T08:34:18.424Z"
     }
   ],
   "live": {
@@ -1605,7 +1605,7 @@
       }
     ],
     "note": "Os confrontos dessa semana ainda não começaram.",
-    "updatedAt": "2026-11-17T08:34:18.123Z"
+    "updatedAt": "2026-11-18T08:34:18.425Z"
   },
   "rosters": {
     "1": [
@@ -1619,7 +1619,7 @@
         "name": "Kenneth Walker III",
         "pos": "RB",
         "proTeam": "KC",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Chris Olave",
@@ -1637,7 +1637,7 @@
         "name": "Luther Burden III",
         "pos": "WR",
         "proTeam": "CHI",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Chuba Hubbard",
@@ -1759,12 +1759,6 @@
         "name": "Rams D/ST",
         "pos": "D/ST",
         "proTeam": "LAR",
-        "injury": ""
-      },
-      {
-        "name": "Dylan Sampson",
-        "pos": "RB",
-        "proTeam": "CLE",
         "injury": ""
       },
       {
@@ -2153,7 +2147,7 @@
         "name": "Marvin Harrison Jr.",
         "pos": "WR",
         "proTeam": "HOU",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Patrick Mahomes",
@@ -2245,7 +2239,7 @@
         "name": "Mike Evans",
         "pos": "WR",
         "proTeam": "SF",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Caleb Williams",
@@ -2257,7 +2251,7 @@
         "name": "Kyle Monangai",
         "pos": "RB",
         "proTeam": "CHI",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Bryce Young",
@@ -2287,13 +2281,7 @@
         "name": "Carnell Tate",
         "pos": "WR",
         "proTeam": "TEN",
-        "injury": "OUT"
-      },
-      {
-        "name": "Corey Kiner",
-        "pos": "RB",
-        "proTeam": "NE",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       }
     ],
     "9": [
@@ -2491,7 +2479,7 @@
         "name": "DeVonta Smith",
         "pos": "WR",
         "proTeam": "PHI",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Christian Watson",
@@ -2545,7 +2533,7 @@
         "name": "Wan'Dale Robinson",
         "pos": "WR",
         "proTeam": "TEN",
-        "injury": "QUESTIONABLE"
+        "injury": "INJURY_RESERVE"
       },
       {
         "name": "Colts D/ST",
@@ -3239,6 +3227,6 @@
         }
       }
     ],
-    "updatedAt": "2026-11-17T08:34:18.163Z"
+    "updatedAt": "2026-11-18T08:34:18.459Z"
   }
 }
