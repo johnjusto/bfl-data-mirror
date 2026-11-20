@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T08:20:18.051Z",
+  "updatedAt": "2026-11-20T08:34:18.535Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-19T08:34:18.341Z"
+      "capturedAt": "2026-11-20T08:34:18.148Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-19T08:34:18.341Z"
+      "capturedAt": "2026-11-20T08:34:18.148Z"
     },
     {
       "week": 3,
@@ -1225,7 +1225,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-19T08:34:18.341Z"
+      "capturedAt": "2026-11-20T08:34:18.148Z"
     },
     {
       "week": 4,
@@ -1273,7 +1273,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-19T08:34:18.341Z"
+      "capturedAt": "2026-11-20T08:34:18.148Z"
     },
     {
       "week": 5,
@@ -1321,7 +1321,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-19T08:34:18.341Z"
+      "capturedAt": "2026-11-20T08:34:18.148Z"
     },
     {
       "week": 6,
@@ -1369,7 +1369,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-19T08:34:18.341Z"
+      "capturedAt": "2026-11-20T08:34:18.148Z"
     },
     {
       "week": 7,
@@ -1417,7 +1417,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-19T08:34:18.341Z"
+      "capturedAt": "2026-11-20T08:34:18.148Z"
     },
     {
       "week": 8,
@@ -1465,7 +1465,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-19T08:34:18.341Z"
+      "capturedAt": "2026-11-20T08:34:18.148Z"
     },
     {
       "week": 9,
@@ -1513,7 +1513,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-19T08:34:18.341Z"
+      "capturedAt": "2026-11-20T08:34:18.148Z"
     },
     {
       "week": 10,
@@ -1561,7 +1561,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-19T08:34:18.341Z"
+      "capturedAt": "2026-11-20T08:34:18.148Z"
     }
   ],
   "live": {
@@ -1570,31 +1570,31 @@
       {
         "home": 1,
         "away": 8,
-        "homeScore": 0,
-        "awayScore": 0
+        "homeScore": 32.81,
+        "awayScore": 4.7
       },
       {
         "home": 9,
         "away": 7,
         "homeScore": 0,
-        "awayScore": 0
+        "awayScore": 2.3
       },
       {
         "home": 11,
         "away": 3,
-        "homeScore": 0,
+        "homeScore": 13.3,
         "awayScore": 0
       },
       {
         "home": 2,
         "away": 10,
-        "homeScore": 0,
+        "homeScore": 4.2,
         "awayScore": 0
       },
       {
         "home": 6,
         "away": 4,
-        "homeScore": 0,
+        "homeScore": 3.9,
         "awayScore": 0
       },
       {
@@ -1604,8 +1604,8 @@
         "awayScore": 0
       }
     ],
-    "note": "Os confrontos dessa semana ainda não começaram.",
-    "updatedAt": "2026-11-19T08:34:18.341Z"
+    "note": "5 de 6 confrontos já têm pontuação parcial; os demais ainda não começaram.",
+    "updatedAt": "2026-11-20T08:34:18.149Z"
   },
   "rosters": {
     "1": [
@@ -1625,12 +1625,6 @@
         "name": "Chris Olave",
         "pos": "WR",
         "proTeam": "NO",
-        "injury": ""
-      },
-      {
-        "name": "D'Andre Swift",
-        "pos": "RB",
-        "proTeam": "CHI",
         "injury": ""
       },
       {
@@ -1670,12 +1664,6 @@
         "injury": ""
       },
       {
-        "name": "Jordyn Tyson",
-        "pos": "WR",
-        "proTeam": "NO",
-        "injury": "QUESTIONABLE"
-      },
-      {
         "name": "Brock Purdy",
         "pos": "QB",
         "proTeam": "SF",
@@ -1691,6 +1679,18 @@
         "name": "David Montgomery",
         "pos": "RB",
         "proTeam": "HOU",
+        "injury": ""
+      },
+      {
+        "name": "Matthew Golden",
+        "pos": "WR",
+        "proTeam": "GB",
+        "injury": ""
+      },
+      {
+        "name": "Antonio Williams",
+        "pos": "WR",
+        "proTeam": "WSH",
         "injury": ""
       }
     ],
@@ -1913,7 +1913,7 @@
         "name": "Seth McGowan",
         "pos": "RB",
         "proTeam": "IND",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Davante Adams",
@@ -2070,12 +2070,6 @@
         "injury": ""
       },
       {
-        "name": "Tyler Warren",
-        "pos": "TE",
-        "proTeam": "IND",
-        "injury": ""
-      },
-      {
         "name": "Jayden Daniels",
         "pos": "QB",
         "proTeam": "WSH",
@@ -2122,6 +2116,12 @@
         "pos": "TE",
         "proTeam": "BUF",
         "injury": "QUESTIONABLE"
+      },
+      {
+        "name": "Emari Demercado",
+        "pos": "RB",
+        "proTeam": "HOU",
+        "injury": ""
       }
     ],
     "7": [
@@ -2236,12 +2236,6 @@
         "injury": "QUESTIONABLE"
       },
       {
-        "name": "DJ Moore",
-        "pos": "WR",
-        "proTeam": "BUF",
-        "injury": ""
-      },
-      {
         "name": "Mike Evans",
         "pos": "WR",
         "proTeam": "SF",
@@ -2278,12 +2272,6 @@
         "injury": ""
       },
       {
-        "name": "Carnell Tate",
-        "pos": "WR",
-        "proTeam": "TEN",
-        "injury": "QUESTIONABLE"
-      },
-      {
         "name": "Ladd McConkey",
         "pos": "WR",
         "proTeam": "LAC",
@@ -2294,25 +2282,25 @@
         "pos": "D/ST",
         "proTeam": "KC",
         "injury": ""
-      }
-    ],
-    "9": [
-      {
-        "name": "Jonathan Taylor",
-        "pos": "RB",
-        "proTeam": "IND",
-        "injury": ""
-      },
-      {
-        "name": "Tetairoa McMillan",
-        "pos": "WR",
-        "proTeam": "CAR",
-        "injury": ""
       },
       {
         "name": "Rome Odunze",
         "pos": "WR",
         "proTeam": "CHI",
+        "injury": ""
+      },
+      {
+        "name": "Jonathan Taylor",
+        "pos": "RB",
+        "proTeam": "IND",
+        "injury": ""
+      }
+    ],
+    "9": [
+      {
+        "name": "Tetairoa McMillan",
+        "pos": "WR",
+        "proTeam": "CAR",
         "injury": ""
       },
       {
@@ -2334,12 +2322,6 @@
         "injury": ""
       },
       {
-        "name": "Matthew Golden",
-        "pos": "WR",
-        "proTeam": "GB",
-        "injury": ""
-      },
-      {
         "name": "Jordan Mason",
         "pos": "RB",
         "proTeam": "MIN",
@@ -2352,21 +2334,9 @@
         "injury": "OUT"
       },
       {
-        "name": "Omar Cooper Jr.",
-        "pos": "WR",
-        "proTeam": "NYJ",
-        "injury": "QUESTIONABLE"
-      },
-      {
         "name": "Harold Fannin Jr.",
         "pos": "TE",
         "proTeam": "CLE",
-        "injury": ""
-      },
-      {
-        "name": "Ravens D/ST",
-        "pos": "D/ST",
-        "proTeam": "BAL",
         "injury": ""
       },
       {
@@ -2380,6 +2350,36 @@
         "pos": "RB",
         "proTeam": "WSH",
         "injury": "INJURY_RESERVE"
+      },
+      {
+        "name": "Jordyn Tyson",
+        "pos": "WR",
+        "proTeam": "NO",
+        "injury": "QUESTIONABLE"
+      },
+      {
+        "name": "D'Andre Swift",
+        "pos": "RB",
+        "proTeam": "CHI",
+        "injury": ""
+      },
+      {
+        "name": "Lions D/ST",
+        "pos": "D/ST",
+        "proTeam": "DET",
+        "injury": ""
+      },
+      {
+        "name": "Carnell Tate",
+        "pos": "WR",
+        "proTeam": "TEN",
+        "injury": "QUESTIONABLE"
+      },
+      {
+        "name": "DJ Moore",
+        "pos": "WR",
+        "proTeam": "BUF",
+        "injury": ""
       }
     ],
     "10": [
@@ -2491,7 +2491,7 @@
         "name": "DeVonta Smith",
         "pos": "WR",
         "proTeam": "PHI",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Christian Watson",
@@ -2616,12 +2616,6 @@
         "injury": ""
       },
       {
-        "name": "Devin Singletary",
-        "pos": "RB",
-        "proTeam": "NYG",
-        "injury": ""
-      },
-      {
         "name": "Chig Okonkwo",
         "pos": "TE",
         "proTeam": "WSH",
@@ -2637,6 +2631,12 @@
         "name": "Breece Hall",
         "pos": "RB",
         "proTeam": "NYJ",
+        "injury": ""
+      },
+      {
+        "name": "Travis Hunter",
+        "pos": "WR",
+        "proTeam": "JAX",
         "injury": ""
       }
     ]
@@ -2961,6 +2961,118 @@
         }
       ],
       "detailKnown": true
+    },
+    {
+      "id": "34b9dd6e-0651-47cd-a83b-dba37ca790d5",
+      "date": "2026-11-19T20:56:30.656Z",
+      "week": 11,
+      "teams": [
+        9,
+        1
+      ],
+      "items": [
+        {
+          "playerId": 4880281,
+          "playerName": "Jordyn Tyson",
+          "pos": "WR",
+          "proTeam": "NO",
+          "fromEspnId": 1,
+          "toEspnId": 9
+        },
+        {
+          "playerId": 4259545,
+          "playerName": "D'Andre Swift",
+          "pos": "RB",
+          "proTeam": "CHI",
+          "fromEspnId": 1,
+          "toEspnId": 9
+        },
+        {
+          "playerId": 4871023,
+          "playerName": "Carnell Tate",
+          "pos": "WR",
+          "proTeam": "TEN",
+          "fromEspnId": 1,
+          "toEspnId": 9
+        },
+        {
+          "playerId": 3915416,
+          "playerName": "DJ Moore",
+          "pos": "WR",
+          "proTeam": "BUF",
+          "fromEspnId": 1,
+          "toEspnId": 9
+        },
+        {
+          "playerId": 4701936,
+          "playerName": "Matthew Golden",
+          "pos": "WR",
+          "proTeam": "GB",
+          "fromEspnId": 9,
+          "toEspnId": 1
+        }
+      ],
+      "detailKnown": true
+    },
+    {
+      "id": "da67fe57-c691-484d-b477-28241eb25dc2",
+      "date": "2026-11-19T23:30:05.185Z",
+      "week": 11,
+      "teams": [
+        8,
+        9
+      ],
+      "items": [
+        {
+          "playerId": 4431299,
+          "playerName": "Rome Odunze",
+          "pos": "WR",
+          "proTeam": "CHI",
+          "fromEspnId": 9,
+          "toEspnId": 8
+        },
+        {
+          "playerId": 4242335,
+          "playerName": "Jonathan Taylor",
+          "pos": "RB",
+          "proTeam": "IND",
+          "fromEspnId": 9,
+          "toEspnId": 8
+        },
+        {
+          "playerId": 4880281,
+          "playerName": "Jordyn Tyson",
+          "pos": "WR",
+          "proTeam": "NO",
+          "fromEspnId": 8,
+          "toEspnId": 9
+        },
+        {
+          "playerId": 4259545,
+          "playerName": "D'Andre Swift",
+          "pos": "RB",
+          "proTeam": "CHI",
+          "fromEspnId": 8,
+          "toEspnId": 9
+        },
+        {
+          "playerId": 4871023,
+          "playerName": "Carnell Tate",
+          "pos": "WR",
+          "proTeam": "TEN",
+          "fromEspnId": 8,
+          "toEspnId": 9
+        },
+        {
+          "playerId": 3915416,
+          "playerName": "DJ Moore",
+          "pos": "WR",
+          "proTeam": "BUF",
+          "fromEspnId": 8,
+          "toEspnId": 9
+        }
+      ],
+      "detailKnown": true
     }
   ],
   "tradeBlock": {
@@ -3037,21 +3149,21 @@
     "games": [
       {
         "date": "2026-11-20T01:15Z",
-        "statusDetail": "11/19 - 8:15 PM EST",
-        "state": "pre",
-        "completed": false,
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
         "network": "Prime Video",
         "home": {
           "name": "Houston Texans",
           "abbr": "HOU",
           "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png",
-          "score": "0"
+          "score": "26"
         },
         "away": {
           "name": "Indianapolis Colts",
           "abbr": "IND",
           "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ind.png",
-          "score": "0"
+          "score": "3"
         }
       },
       {
@@ -3283,6 +3395,6 @@
         }
       }
     ],
-    "updatedAt": "2026-11-19T08:34:18.386Z"
+    "updatedAt": "2026-11-20T08:34:18.231Z"
   }
 }
