@@ -3099,29 +3099,23 @@
       "teamName": "Tampa Bay Badidas",
       "managerName": "Marcos",
       "interesse": [
-        "WR",
         "RB"
       ],
       "negociaveis": [
+        {
+          "name": "Rashee Rice",
+          "pos": "WR",
+          "proTeam": "KC"
+        },
         {
           "name": "Stefon Diggs",
           "pos": "WR",
           "proTeam": "WSH"
         },
         {
-          "name": "J.K. Dobbins",
-          "pos": "RB",
-          "proTeam": "DEN"
-        },
-        {
           "name": "Germie Bernard",
           "pos": "WR",
           "proTeam": "PIT"
-        },
-        {
-          "name": "Brenton Strange",
-          "pos": "TE",
-          "proTeam": "JAX"
         },
         {
           "name": "Rachaad White",
@@ -3137,11 +3131,21 @@
           "name": "Davante Adams",
           "pos": "WR",
           "proTeam": "LAR"
+        },
+        {
+          "name": "Kenny Gainwell",
+          "pos": "RB",
+          "proTeam": "TB"
+        },
+        {
+          "name": "Roman Wilson",
+          "pos": "WR",
+          "proTeam": "PIT"
         }
       ],
-      "nota": "Busco WR1 e RB1. Aceito dar 2 jogadores e receber 1.",
-      "outros": "Kyren (RB) troco por 2 jogadores: RB1 + WR1 nos respectivos times.",
-      "updatedAt": "2026-11-13T20:57:36.998Z"
+      "nota": "Busco RB1 (top 10 ou top 20).  dar 2 jogadores e receber 1.",
+      "outros": "",
+      "updatedAt": "2026-11-24T06:26:33.108Z"
     }
   },
   "nflGames": {
