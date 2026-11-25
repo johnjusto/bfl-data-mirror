@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T08:34:18.512Z",
+  "updatedAt": "2026-11-25T08:17:11.565Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,6 +8,30 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -72,30 +96,6 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     }
   },
   "history": [
@@ -903,55 +903,6 @@
     }
   ],
   "managers": {
-    "do": {
-      "currentTeam": "Dallas Cowboys",
-      "displayName": "DO",
-      "realName": "Daniel Di Giovanni",
-      "status": "current",
-      "teamNames": [
-        "Dallas Cowboys",
-        "Dallas Buccaneers",
-        "Sai Zica"
-      ]
-    },
-    "joao-novo": {
-      "currentTeam": "Saints",
-      "displayName": "João novo",
-      "notes": "Entrou na liga em 2026",
-      "realName": "Joao Mesquita",
-      "status": "current",
-      "teamNames": [
-        "Saints"
-      ]
-    },
-    "anselmo": {
-      "displayName": "Anselmo",
-      "notes": "Entrou em 2014 no lugar do Plum, jogou até 2025, saiu em 2026",
-      "status": "departed",
-      "teamNames": [
-        "Rhinos"
-      ]
-    },
-    "henrique": {
-      "currentTeam": "Davai blyat",
-      "displayName": "Henrique",
-      "notes": "Entrou na liga em 2026",
-      "realName": "Henrique Bovolenta",
-      "status": "current",
-      "teamNames": [
-        "Davai blyat"
-      ]
-    },
-    "leandro": {
-      "currentTeam": "BUCCS",
-      "displayName": "Leandro",
-      "realName": "Leandro Telles",
-      "status": "current",
-      "teamNames": [
-        "BUCCS",
-        "Buccs"
-      ]
-    },
     "amintore": {
       "displayName": "Amintore",
       "notes": "Jogou 2012-2017, saiu da liga em 2017",
@@ -964,31 +915,32 @@
         "Giantao Campiao"
       ]
     },
-    "fabinho": {
-      "currentTeam": "Jaguars Champions",
-      "displayName": "Fabinho",
-      "realName": "Fabio De Osti",
-      "status": "current",
+    "anselmo": {
+      "displayName": "Anselmo",
+      "notes": "Entrou em 2014 no lugar do Plum, jogou até 2025, saiu em 2026",
+      "status": "departed",
       "teamNames": [
-        "Jaguars Fodex",
-        "Jacksonville Jaguars",
-        "Renegados Team Jags",
-        "Bigodito Team",
-        "Chegado's Team",
-        "Duvvvvaaaalllll",
-        "Jaguars"
+        "Rhinos"
       ]
     },
-    "joao-justo": {
-      "currentTeam": "LaPorta dos Desesperados",
-      "displayName": "Joao Justo",
-      "realName": "joao justo",
+    "breno": {
+      "currentTeam": "Tinoco FC",
+      "displayName": "Breno",
+      "notes": "Entrou na liga em 2026",
+      "realName": "Breno Tinoco",
       "status": "current",
       "teamNames": [
-        "Evil Empire",
-        "Gooooo Pats",
-        "Go Pats e fumo cachorrao",
-        "Go Patssss"
+        "Tinoco FC"
+      ]
+    },
+    "cachorrao": {
+      "displayName": "Cachorrão",
+      "notes": "Membro tradicional da liga (2012-2024), saiu antes da temporada 2025",
+      "status": "departed",
+      "teamNames": [
+        "Packers",
+        "PACKERS",
+        "PACKERS BFL CHAMPIONS 2022"
       ]
     },
     "coto": {
@@ -1006,6 +958,74 @@
         "CHAMPIONS DOGS"
       ]
     },
+    "do": {
+      "currentTeam": "Dallas Cowboys",
+      "displayName": "DO",
+      "realName": "Daniel Di Giovanni",
+      "status": "current",
+      "teamNames": [
+        "Dallas Cowboys",
+        "Dallas Buccaneers",
+        "Sai Zica"
+      ]
+    },
+    "fabinho": {
+      "currentTeam": "Jaguars Champions",
+      "displayName": "Fabinho",
+      "realName": "Fabio De Osti",
+      "status": "current",
+      "teamNames": [
+        "Jaguars Fodex",
+        "Jacksonville Jaguars",
+        "Renegados Team Jags",
+        "Bigodito Team",
+        "Chegado's Team",
+        "Duvvvvaaaalllll",
+        "Jaguars"
+      ]
+    },
+    "henrique": {
+      "currentTeam": "Davai blyat",
+      "displayName": "Henrique",
+      "notes": "Entrou na liga em 2026",
+      "realName": "Henrique Bovolenta",
+      "status": "current",
+      "teamNames": [
+        "Davai blyat"
+      ]
+    },
+    "joao-justo": {
+      "currentTeam": "LaPorta dos Desesperados",
+      "displayName": "Joao Justo",
+      "realName": "joao justo",
+      "status": "current",
+      "teamNames": [
+        "Evil Empire",
+        "Gooooo Pats",
+        "Go Pats e fumo cachorrao",
+        "Go Patssss"
+      ]
+    },
+    "joao-novo": {
+      "currentTeam": "Saints",
+      "displayName": "João novo",
+      "notes": "Entrou na liga em 2026",
+      "realName": "Joao Mesquita",
+      "status": "current",
+      "teamNames": [
+        "Saints"
+      ]
+    },
+    "leandro": {
+      "currentTeam": "BUCCS",
+      "displayName": "Leandro",
+      "realName": "Leandro Telles",
+      "status": "current",
+      "teamNames": [
+        "BUCCS",
+        "Buccs"
+      ]
+    },
     "lucas": {
       "currentTeam": "TENNESSEE",
       "displayName": "Lucas",
@@ -1016,30 +1036,12 @@
         "TENNESSEE Jaguars"
       ]
     },
-    "plum": {
-      "displayName": "Plum",
-      "notes": "Jogou 2012-2013, identidade não lembrada pelo grupo",
-      "status": "departed",
-      "teamNames": [
-        "PLUM"
-      ]
-    },
     "manoel": {
       "displayName": "Manoel",
       "notes": "Jogou 2018-2025, saiu em 2026",
       "status": "departed",
       "teamNames": [
         "Pimpaco"
-      ]
-    },
-    "breno": {
-      "currentTeam": "Tinoco FC",
-      "displayName": "Breno",
-      "notes": "Entrou na liga em 2026",
-      "realName": "Breno Tinoco",
-      "status": "current",
-      "teamNames": [
-        "Tinoco FC"
       ]
     },
     "marcos": {
@@ -1062,6 +1064,14 @@
         "NaylaTM"
       ]
     },
+    "plum": {
+      "displayName": "Plum",
+      "notes": "Jogou 2012-2013, identidade não lembrada pelo grupo",
+      "status": "departed",
+      "teamNames": [
+        "PLUM"
+      ]
+    },
     "thiago": {
       "currentTeam": "Djow's Team",
       "displayName": "Thiago",
@@ -1069,16 +1079,6 @@
       "status": "current",
       "teamNames": [
         "Djow's Team"
-      ]
-    },
-    "cachorrao": {
-      "displayName": "Cachorrão",
-      "notes": "Membro tradicional da liga (2012-2024), saiu antes da temporada 2025",
-      "status": "departed",
-      "teamNames": [
-        "Packers",
-        "PACKERS",
-        "PACKERS BFL CHAMPIONS 2022"
       ]
     }
   },
