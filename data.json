@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:17:11.565Z",
+  "updatedAt": "2026-11-25T08:34:18.691Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-24T08:34:18.169Z"
+      "capturedAt": "2026-11-25T08:34:18.239Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-24T08:34:18.169Z"
+      "capturedAt": "2026-11-25T08:34:18.239Z"
     },
     {
       "week": 3,
@@ -1225,7 +1225,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-24T08:34:18.169Z"
+      "capturedAt": "2026-11-25T08:34:18.239Z"
     },
     {
       "week": 4,
@@ -1273,7 +1273,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-24T08:34:18.169Z"
+      "capturedAt": "2026-11-25T08:34:18.239Z"
     },
     {
       "week": 5,
@@ -1321,7 +1321,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-24T08:34:18.169Z"
+      "capturedAt": "2026-11-25T08:34:18.239Z"
     },
     {
       "week": 6,
@@ -1369,7 +1369,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-24T08:34:18.169Z"
+      "capturedAt": "2026-11-25T08:34:18.239Z"
     },
     {
       "week": 7,
@@ -1417,7 +1417,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-24T08:34:18.169Z"
+      "capturedAt": "2026-11-25T08:34:18.239Z"
     },
     {
       "week": 8,
@@ -1465,7 +1465,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-24T08:34:18.169Z"
+      "capturedAt": "2026-11-25T08:34:18.239Z"
     },
     {
       "week": 9,
@@ -1513,7 +1513,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-24T08:34:18.169Z"
+      "capturedAt": "2026-11-25T08:34:18.239Z"
     },
     {
       "week": 10,
@@ -1561,7 +1561,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-24T08:34:18.169Z"
+      "capturedAt": "2026-11-25T08:34:18.239Z"
     },
     {
       "week": 11,
@@ -1609,7 +1609,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-24T08:34:18.169Z"
+      "capturedAt": "2026-11-25T08:34:18.239Z"
     }
   ],
   "live": {
@@ -1653,7 +1653,7 @@
       }
     ],
     "note": "Os confrontos dessa semana ainda não começaram.",
-    "updatedAt": "2026-11-24T08:34:18.169Z"
+    "updatedAt": "2026-11-25T08:34:18.239Z"
   },
   "rosters": {
     "1": [
@@ -1667,7 +1667,7 @@
         "name": "Kenneth Walker III",
         "pos": "RB",
         "proTeam": "KC",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Chris Olave",
@@ -1753,7 +1753,7 @@
         "name": "Brock Bowers",
         "pos": "TE",
         "proTeam": "LV",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Garrett Wilson",
@@ -2065,7 +2065,7 @@
         "name": "J.K. Dobbins",
         "pos": "RB",
         "proTeam": "DEN",
-        "injury": ""
+        "injury": "OUT"
       },
       {
         "name": "49ers D/ST",
@@ -2127,7 +2127,7 @@
         "name": "Josh Jacobs",
         "pos": "RB",
         "proTeam": "GB",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Tyler Shough",
@@ -2163,7 +2163,7 @@
         "name": "Dalton Kincaid",
         "pos": "TE",
         "proTeam": "BUF",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Emari Demercado",
@@ -2213,7 +2213,7 @@
         "name": "Denzel Boston",
         "pos": "WR",
         "proTeam": "CLE",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Mike Gesicki",
@@ -2355,7 +2355,7 @@
         "name": "Sam LaPorta",
         "pos": "TE",
         "proTeam": "DET",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "Trevor Lawrence",
@@ -2379,7 +2379,7 @@
         "name": "Woody Marks",
         "pos": "RB",
         "proTeam": "HOU",
-        "injury": "OUT"
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Harold Fannin Jr.",
@@ -2483,7 +2483,7 @@
         "name": "Jordan Addison",
         "pos": "WR",
         "proTeam": "MIN",
-        "injury": "OUT"
+        "injury": "DOUBTFUL"
       },
       {
         "name": "Kyle Pitts Sr.",
@@ -2607,7 +2607,7 @@
         "name": "Saquon Barkley",
         "pos": "RB",
         "proTeam": "PHI",
-        "injury": "QUESTIONABLE"
+        "injury": ""
       },
       {
         "name": "A.J. Brown",
@@ -3504,6 +3504,6 @@
         }
       }
     ],
-    "updatedAt": "2026-11-24T08:34:18.222Z"
+    "updatedAt": "2026-11-25T08:34:18.298Z"
   }
 }
