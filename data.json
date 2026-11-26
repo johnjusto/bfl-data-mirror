@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T08:17:02.974Z",
+  "updatedAt": "2026-11-26T08:34:18.527Z",
   "teams": {
     "1": {
       "abbrev": "DC",
@@ -8,30 +8,6 @@
       "espnName": "Dallas Cowboys",
       "owner": "Daniel Di Giovanni",
       "seed": 7
-    },
-    "10": {
-      "abbrev": "NOLA",
-      "calendarName": "João novo",
-      "espnId": 10,
-      "espnName": "Saints",
-      "owner": "Joao Mesquita",
-      "seed": 9
-    },
-    "11": {
-      "abbrev": "NTM",
-      "calendarName": "Nayla",
-      "espnId": 11,
-      "espnName": "NaylaTM",
-      "owner": "Nayla Tavares",
-      "seed": 11
-    },
-    "12": {
-      "abbrev": "TFC",
-      "calendarName": "Breno",
-      "espnId": 12,
-      "espnName": "Tinoco FC",
-      "owner": "Breno Tinoco",
-      "seed": 12
     },
     "2": {
       "abbrev": "TN",
@@ -96,6 +72,30 @@
       "espnName": "LaPorta dos Desesperados",
       "owner": "joao justo",
       "seed": 3
+    },
+    "10": {
+      "abbrev": "NOLA",
+      "calendarName": "João novo",
+      "espnId": 10,
+      "espnName": "Saints",
+      "owner": "Joao Mesquita",
+      "seed": 9
+    },
+    "11": {
+      "abbrev": "NTM",
+      "calendarName": "Nayla",
+      "espnId": 11,
+      "espnName": "NaylaTM",
+      "owner": "Nayla Tavares",
+      "seed": 11
+    },
+    "12": {
+      "abbrev": "TFC",
+      "calendarName": "Breno",
+      "espnId": 12,
+      "espnName": "Tinoco FC",
+      "owner": "Breno Tinoco",
+      "seed": 12
     }
   },
   "history": [
@@ -1129,7 +1129,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-25T08:34:18.239Z"
+      "capturedAt": "2026-11-26T08:34:18.146Z"
     },
     {
       "week": 2,
@@ -1177,7 +1177,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-25T08:34:18.239Z"
+      "capturedAt": "2026-11-26T08:34:18.146Z"
     },
     {
       "week": 3,
@@ -1225,7 +1225,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-25T08:34:18.239Z"
+      "capturedAt": "2026-11-26T08:34:18.146Z"
     },
     {
       "week": 4,
@@ -1273,7 +1273,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-25T08:34:18.239Z"
+      "capturedAt": "2026-11-26T08:34:18.146Z"
     },
     {
       "week": 5,
@@ -1321,7 +1321,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-25T08:34:18.239Z"
+      "capturedAt": "2026-11-26T08:34:18.146Z"
     },
     {
       "week": 6,
@@ -1369,7 +1369,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-25T08:34:18.239Z"
+      "capturedAt": "2026-11-26T08:34:18.146Z"
     },
     {
       "week": 7,
@@ -1417,7 +1417,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-25T08:34:18.239Z"
+      "capturedAt": "2026-11-26T08:34:18.146Z"
     },
     {
       "week": 8,
@@ -1465,7 +1465,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-25T08:34:18.239Z"
+      "capturedAt": "2026-11-26T08:34:18.146Z"
     },
     {
       "week": 9,
@@ -1513,7 +1513,7 @@
           "winner": "HOME"
         }
       ],
-      "capturedAt": "2026-11-25T08:34:18.239Z"
+      "capturedAt": "2026-11-26T08:34:18.146Z"
     },
     {
       "week": 10,
@@ -1561,7 +1561,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-25T08:34:18.239Z"
+      "capturedAt": "2026-11-26T08:34:18.146Z"
     },
     {
       "week": 11,
@@ -1609,7 +1609,7 @@
           "winner": "AWAY"
         }
       ],
-      "capturedAt": "2026-11-25T08:34:18.239Z"
+      "capturedAt": "2026-11-26T08:34:18.146Z"
     }
   ],
   "live": {
@@ -1624,36 +1624,36 @@
       {
         "home": 9,
         "away": 2,
-        "homeScore": 0,
-        "awayScore": 0
+        "homeScore": 13.87,
+        "awayScore": 8.9
       },
       {
         "home": 4,
         "away": 1,
         "homeScore": 0,
-        "awayScore": 0
+        "awayScore": 4.4
       },
       {
         "home": 12,
         "away": 10,
         "homeScore": 0,
-        "awayScore": 0
+        "awayScore": 27.5
       },
       {
         "home": 5,
         "away": 11,
         "homeScore": 0,
-        "awayScore": 0
+        "awayScore": 14.5
       },
       {
         "home": 3,
         "away": 8,
-        "homeScore": 0,
+        "homeScore": 14.5,
         "awayScore": 0
       }
     ],
-    "note": "Os confrontos dessa semana ainda não começaram.",
-    "updatedAt": "2026-11-25T08:34:18.239Z"
+    "note": "5 de 6 confrontos já têm pontuação parcial; os demais ainda não começaram.",
+    "updatedAt": "2026-11-26T08:34:18.146Z"
   },
   "rosters": {
     "1": [
@@ -1667,7 +1667,7 @@
         "name": "Kenneth Walker III",
         "pos": "RB",
         "proTeam": "KC",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "Chris Olave",
@@ -1715,7 +1715,7 @@
         "name": "Brock Purdy",
         "pos": "QB",
         "proTeam": "SF",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Emmett Johnson",
@@ -1780,18 +1780,6 @@
         "injury": ""
       },
       {
-        "name": "Tre Tucker",
-        "pos": "WR",
-        "proTeam": "LV",
-        "injury": ""
-      },
-      {
-        "name": "Malik Washington",
-        "pos": "WR",
-        "proTeam": "MIA",
-        "injury": ""
-      },
-      {
         "name": "Jonah Coleman",
         "pos": "RB",
         "proTeam": "DEN",
@@ -1810,21 +1798,33 @@
         "injury": ""
       },
       {
-        "name": "Cam Ward",
-        "pos": "QB",
-        "proTeam": "TEN",
-        "injury": ""
-      },
-      {
         "name": "Bears D/ST",
         "pos": "D/ST",
         "proTeam": "CHI",
         "injury": ""
       },
       {
-        "name": "Michael Mayer",
-        "pos": "TE",
-        "proTeam": "LV",
+        "name": "Commanders D/ST",
+        "pos": "D/ST",
+        "proTeam": "WSH",
+        "injury": ""
+      },
+      {
+        "name": "Ted Hurst III",
+        "pos": "WR",
+        "proTeam": "TB",
+        "injury": ""
+      },
+      {
+        "name": "Konata Mumpfield",
+        "pos": "WR",
+        "proTeam": "LAR",
+        "injury": ""
+      },
+      {
+        "name": "Deshaun Watson",
+        "pos": "QB",
+        "proTeam": "CLE",
         "injury": ""
       }
     ],
@@ -1839,7 +1839,7 @@
         "name": "Zay Flowers",
         "pos": "WR",
         "proTeam": "BAL",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Jaylen Warren",
@@ -1863,13 +1863,7 @@
         "name": "Jakobi Meyers",
         "pos": "WR",
         "proTeam": "JAX",
-        "injury": ""
-      },
-      {
-        "name": "Aaron Rodgers",
-        "pos": "QB",
-        "proTeam": "PIT",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Ryan Flournoy",
@@ -1879,12 +1873,6 @@
       },
       {
         "name": "DeMario Douglas",
-        "pos": "WR",
-        "proTeam": "NE",
-        "injury": ""
-      },
-      {
-        "name": "Mack Hollins",
         "pos": "WR",
         "proTeam": "NE",
         "injury": ""
@@ -1912,6 +1900,18 @@
         "pos": "TE",
         "proTeam": "JAX",
         "injury": ""
+      },
+      {
+        "name": "Marvin Harrison Jr.",
+        "pos": "WR",
+        "proTeam": "HOU",
+        "injury": "QUESTIONABLE"
+      },
+      {
+        "name": "Austin Ekeler",
+        "pos": "RB",
+        "proTeam": "WSH",
+        "injury": ""
       }
     ],
     "4": [
@@ -1931,7 +1931,7 @@
         "name": "Stefon Diggs",
         "pos": "WR",
         "proTeam": "WSH",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Jared Goff",
@@ -1946,22 +1946,10 @@
         "injury": ""
       },
       {
-        "name": "Rachaad White",
-        "pos": "RB",
-        "proTeam": "WSH",
-        "injury": ""
-      },
-      {
         "name": "Kaelon Black",
         "pos": "RB",
         "proTeam": "SF",
         "injury": ""
-      },
-      {
-        "name": "Seth McGowan",
-        "pos": "RB",
-        "proTeam": "IND",
-        "injury": "OUT"
       },
       {
         "name": "Davante Adams",
@@ -1998,6 +1986,18 @@
         "pos": "WR",
         "proTeam": "PIT",
         "injury": ""
+      },
+      {
+        "name": "Brandon Aiyuk",
+        "pos": "WR",
+        "proTeam": "FA",
+        "injury": ""
+      },
+      {
+        "name": "Dylan Sampson",
+        "pos": "RB",
+        "proTeam": "CLE",
+        "injury": ""
       }
     ],
     "5": [
@@ -2005,7 +2005,7 @@
         "name": "Jaxon Smith-Njigba",
         "pos": "WR",
         "proTeam": "SEA",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Josh Allen",
@@ -2050,22 +2050,10 @@
         "injury": ""
       },
       {
-        "name": "Rashid Shaheed",
-        "pos": "WR",
-        "proTeam": "SEA",
-        "injury": ""
-      },
-      {
         "name": "Keon Coleman",
         "pos": "WR",
         "proTeam": "BUF",
         "injury": ""
-      },
-      {
-        "name": "J.K. Dobbins",
-        "pos": "RB",
-        "proTeam": "DEN",
-        "injury": "OUT"
       },
       {
         "name": "49ers D/ST",
@@ -2083,6 +2071,18 @@
         "name": "Samaje Perine",
         "pos": "RB",
         "proTeam": "CIN",
+        "injury": ""
+      },
+      {
+        "name": "Xavier Worthy",
+        "pos": "WR",
+        "proTeam": "KC",
+        "injury": ""
+      },
+      {
+        "name": "Justice Hill",
+        "pos": "RB",
+        "proTeam": "BAL",
         "injury": ""
       }
     ],
@@ -2127,7 +2127,7 @@
         "name": "Josh Jacobs",
         "pos": "RB",
         "proTeam": "GB",
-        "injury": "QUESTIONABLE"
+        "injury": "OUT"
       },
       {
         "name": "Tyler Shough",
@@ -2145,7 +2145,7 @@
         "name": "Rashod Bateman",
         "pos": "WR",
         "proTeam": "BAL",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Keenan Allen",
@@ -2166,9 +2166,9 @@
         "injury": "QUESTIONABLE"
       },
       {
-        "name": "Emari Demercado",
+        "name": "Chris Rodriguez Jr.",
         "pos": "RB",
-        "proTeam": "HOU",
+        "proTeam": "JAX",
         "injury": ""
       }
     ],
@@ -2183,7 +2183,7 @@
         "name": "Derrick Henry",
         "pos": "RB",
         "proTeam": "BAL",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Emeka Egbuka",
@@ -2287,7 +2287,7 @@
         "name": "Mike Evans",
         "pos": "WR",
         "proTeam": "SF",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Caleb Williams",
@@ -2349,7 +2349,7 @@
         "name": "Tetairoa McMillan",
         "pos": "WR",
         "proTeam": "CAR",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Sam LaPorta",
@@ -2385,13 +2385,7 @@
         "name": "Harold Fannin Jr.",
         "pos": "TE",
         "proTeam": "CLE",
-        "injury": ""
-      },
-      {
-        "name": "Elic Ayomanor",
-        "pos": "WR",
-        "proTeam": "TEN",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Jacory Croskey-Merritt",
@@ -2412,12 +2406,6 @@
         "injury": ""
       },
       {
-        "name": "Lions D/ST",
-        "pos": "D/ST",
-        "proTeam": "DET",
-        "injury": ""
-      },
-      {
         "name": "Carnell Tate",
         "pos": "WR",
         "proTeam": "TEN",
@@ -2427,6 +2415,18 @@
         "name": "DJ Moore",
         "pos": "WR",
         "proTeam": "BUF",
+        "injury": ""
+      },
+      {
+        "name": "Rams D/ST",
+        "pos": "D/ST",
+        "proTeam": "LAR",
+        "injury": ""
+      },
+      {
+        "name": "Harrison Wallace III",
+        "pos": "WR",
+        "proTeam": "ARI",
         "injury": ""
       }
     ],
@@ -2545,7 +2545,7 @@
         "name": "Christian Watson",
         "pos": "WR",
         "proTeam": "GB",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Dak Prescott",
@@ -2569,7 +2569,7 @@
         "name": "Isaiah Likely",
         "pos": "TE",
         "proTeam": "NYG",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "KC Concepcion",
@@ -2590,15 +2590,15 @@
         "injury": ""
       },
       {
-        "name": "Chargers D/ST",
-        "pos": "D/ST",
-        "proTeam": "LAC",
-        "injury": ""
-      },
-      {
         "name": "Pat Bryant",
         "pos": "WR",
         "proTeam": "DEN",
+        "injury": ""
+      },
+      {
+        "name": "Bengals D/ST",
+        "pos": "D/ST",
+        "proTeam": "CIN",
         "injury": ""
       }
     ],
@@ -2661,7 +2661,7 @@
         "name": "Jahan Dotson",
         "pos": "WR",
         "proTeam": "ATL",
-        "injury": ""
+        "injury": "QUESTIONABLE"
       },
       {
         "name": "Chig Okonkwo",
@@ -3200,25 +3200,6 @@
     "week": 12,
     "games": [
       {
-        "date": "2026-11-26T01:00Z",
-        "statusDetail": "11/25 - 8:00 PM EST",
-        "state": "pre",
-        "completed": false,
-        "network": "Netflix",
-        "home": {
-          "name": "Los Angeles Rams",
-          "abbr": "LAR",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
-          "score": "0"
-        },
-        "away": {
-          "name": "Green Bay Packers",
-          "abbr": "GB",
-          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
-          "score": "0"
-        }
-      },
-      {
         "date": "2026-11-26T18:00Z",
         "statusDetail": "11/26 - 1:00 PM EST",
         "state": "pre",
@@ -3273,6 +3254,25 @@
           "abbr": "KC",
           "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/kc.png",
           "score": "0"
+        }
+      },
+      {
+        "date": "2026-11-26T01:00Z",
+        "statusDetail": "Final",
+        "state": "post",
+        "completed": true,
+        "network": "Netflix",
+        "home": {
+          "name": "Los Angeles Rams",
+          "abbr": "LAR",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png",
+          "score": "26"
+        },
+        "away": {
+          "name": "Green Bay Packers",
+          "abbr": "GB",
+          "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/gb.png",
+          "score": "13"
         }
       },
       {
@@ -3504,6 +3504,6 @@
         }
       }
     ],
-    "updatedAt": "2026-11-25T08:34:18.298Z"
+    "updatedAt": "2026-11-26T08:34:18.201Z"
   }
 }
