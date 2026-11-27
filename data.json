@@ -3194,6 +3194,59 @@
       "nota": "Busco RB1 (top 10 ou top 20). Troco por WR (top 10 - Davante Adams ou top 20 - Rice).",
       "outros": "",
       "updatedAt": "2026-11-24T06:28:07.718Z"
+    },
+    "7": {
+      "espnId": 7,
+      "teamName": "BUCCS",
+      "managerName": "Leandro",
+      "interesse": [
+        "WR"
+      ],
+      "negociaveis": [
+        {
+          "name": "Emeka Egbuka",
+          "pos": "WR",
+          "proTeam": "TB"
+        },
+        {
+          "name": "Patrick Mahomes",
+          "pos": "QB",
+          "proTeam": "KC"
+        },
+        {
+          "name": "Kalif Raymond",
+          "pos": "WR",
+          "proTeam": "CHI"
+        },
+        {
+          "name": "Cooper Kupp",
+          "pos": "WR",
+          "proTeam": "SEA"
+        },
+        {
+          "name": "C.J. Stroud",
+          "pos": "QB",
+          "proTeam": "HOU"
+        },
+        {
+          "name": "Caleb Douglas",
+          "pos": "WR",
+          "proTeam": "MIA"
+        },
+        {
+          "name": "Xavier Hutchinson",
+          "pos": "WR",
+          "proTeam": "HOU"
+        },
+        {
+          "name": "Jets D/ST",
+          "pos": "D/ST",
+          "proTeam": "NYJ"
+        }
+      ],
+      "nota": "",
+      "outros": "",
+      "updatedAt": "2026-11-27T17:18:23.386Z"
     }
   },
   "nflGames": {
